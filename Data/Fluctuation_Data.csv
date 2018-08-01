@@ -1,0 +1,28 @@
+"","APMC","Commodity","Year","Month","arrivals_in_qtl","min_price","max_price","modal_price","date","district_name","state_name","fluctuation"
+"1","Sangali","ricepaddyhus",2014,"September",3105,1800,5600,3700,"2014-09","Sangli","Maharashtra",3800
+"2","Barshi","sesamum",2014,"October",2,1075,10500,10500,"2014-10","Solapur","Maharashtra",9425
+"3","Solapur","ricepaddyhus",2014,"November",35759,2114,5719,3840,"2014-11","Solapur","Maharashtra",3605
+"4","Solapur","ricepaddyhus",2014,"December",27504,2115,5664,3782,"2014-12","Solapur","Maharashtra",3549
+"5","Solapur","ricepaddyhus",2015,"January",29394,2124,5647,3790,"2015-01","Solapur","Maharashtra",3523
+"6","Solapur","ricepaddyhus",2015,"February",20333,2128,5662,3688,"2015-02","Solapur","Maharashtra",3534
+"7","Gevrai","pigeon pea tur",2015,"March",423,4636,13085,5536,"2015-03","Beed","Maharashtra",8449
+"8","Dondaicha","pigeon pea tur",2015,"April",38,4908,8690,5092,"2015-04","Dhule","Maharashtra",3782
+"9","Sangali","ricepaddyhus",2015,"May",617,1700,5500,3600,"2015-05","Sangli","Maharashtra",3800
+"10","Daryapur","pigeon pea tur",2015,"June",6131,4965,10561,7191,"2015-06","Amaravathi","Maharashtra",5596
+"11","Mehkar","pigeon pea tur",2015,"July",100,4150,10101,9250,"2015-07","Buldhana","Maharashtra",5951
+"12","Nilanga","pigeon pea tur",2015,"August",158,8262,15466,8861,"2015-08","Latur","Maharashtra",7204
+"13","Sangrampur","pigeon pea tur",2015,"September",154,4200,8900,8020,"2015-09","Buldhana","Maharashtra",4700
+"14","Shegaon","sesamum",2015,"October",7,6507,16793,6507,"2015-10","Buldhana","Maharashtra",10286
+"15","Brahmpuri","paddyunhusked",2015,"November",3969,1941,6059,1994,"2015-11","Chandrapur","Maharashtra",4118
+"16","Lohara","pigeon pea tur",2015,"December",229,9022,14741,9568,"2015-12","Osmanabad","Maharashtra",5719
+"17","Himayatnagar","pigeon pea tur",2016,"January",202,8015,11966,8117,"2016-01","Nanded","Maharashtra",3951
+"18","Kalyan","ricepaddyhus",2016,"February",12,1600,5000,3900,"2016-02","Thane","Maharashtra",3400
+"19","Mehkar","pigeon pea tur",2016,"March",1950,7062,13454,8134,"2016-03","Buldhana","Maharashtra",6392
+"20","Sangali","ricepaddyhus",2016,"April",10465,1897,5606,4369,"2016-04","Sangli","Maharashtra",3709
+"21","Sangali","ricepaddyhus",2016,"May",13097,1906,5696,4380,"2016-05","Sangli","Maharashtra",3790
+"22","Malkapur","pigeon pea tur",2016,"June",15183,7972,12506,8804,"2016-06","Buldhana","Maharashtra",4534
+"23","Khalapur(Shil-Phata)","ricepaddyhus",2016,"July",211,2457,6900,3793,"2016-07","Raigad","Maharashtra",4443
+"24","Khalapur(Shil-Phata)","ricepaddyhus",2016,"August",137,2500,7125,3725,"2016-08","Raigad","Maharashtra",4625
+"25","Umarkhed","pigeon pea tur",2016,"September",120,5800,61200,6000,"2016-09","Yewatmal","Maharashtra",55400
+"26","Sangali","ricepaddyhus",2016,"October",12876,2079,5768,4489,"2016-10","Sangli","Maharashtra",3689
+"27","Sangali","ricepaddyhus",2016,"November",13575,2164,5586,4457,"2016-11","Sangli","Maharashtra",3422

@@ -1,0 +1,689 @@
+"","APMC","Commodity","Year","Month","arrivals_in_qtl","min_price","max_price","modal_price","date","district_name","state_name","outlier"
+"78","Kille Dharur","bajri",2014,"December",270,1439,2284,1795,"2014-12","Beed","Maharashtra",TRUE
+"131","Sakri","bajri",2014,"September",3022,1036,1045,1039,"2014-09","Dhule","Maharashtra",TRUE
+"168","Kolhapur-Laxmipuri","bajri",2014,"October",10,1700,1900,1800,"2014-10","Kolhapur","Maharashtra",TRUE
+"237","Pathari","bajri",2014,"December",23,1401,1539,0,"2014-12","Parbhani","Maharashtra",TRUE
+"241","Pathari","bajri",2014,"November",41,1475,1635,271,"2014-11","Parbhani","Maharashtra",TRUE
+"243","Pathari","bajri",2014,"October",95,1523,2670,805,"2014-10","Parbhani","Maharashtra",TRUE
+"249","Pune","bajri",2014,"December",1398,1703,2121,1912,"2014-12","Pune","Maharashtra",TRUE
+"255","Pune","bajri",2014,"November",413,1727,2062,1894,"2014-11","Pune","Maharashtra",TRUE
+"258","Pune","bajri",2014,"October",1095,2142,3196,2669,"2014-10","Pune","Maharashtra",TRUE
+"261","Pune","bajri",2014,"September",501,1815,2053,1932,"2014-09","Pune","Maharashtra",TRUE
+"313","Digras","bajri",2014,"December",2,1798,0,0,"2014-12","Yewatmal","Maharashtra",TRUE
+"314","Pusad","bajri",2014,"December",40,1575,1890,1806,"2014-12","Yewatmal","Maharashtra",TRUE
+"315","Digras","bajri",2014,"November",5,1933,0,0,"2014-11","Yewatmal","Maharashtra",TRUE
+"317","Digras","bajri",2014,"October",2,1645,0,0,"2014-10","Yewatmal","Maharashtra",TRUE
+"323","Pune","coconut",2014,"September",11010,7,15,11,"2014-09","Pune","Maharashtra",TRUE
+"337","Telhara","cotton",2014,"November",19010,3608,3665,3631,"2014-11","Akola","Maharashtra",TRUE
+"349","Fulambri","cotton",2014,"December",1055,4042,1013,1010,"2014-12","Aurangabad","Maharashtra",TRUE
+"386","Dhule","cotton",2014,"November",1028,4100,4200,4200,"2014-11","Dhule","Maharashtra",TRUE
+"393","Kalamnuri","cotton",2014,"December",329,4250,4275,4275,"2014-12","Hingoli","Maharashtra",TRUE
+"401","Chalisgaon","cotton",2014,"November",12150,50,73,50,"2014-11","Jalgaon","Maharashtra",TRUE
+"417","Jalna","cotton",2014,"November",7242,3502,3502,3502,"2014-11","Jalna","Maharashtra",TRUE
+"420","Partur","cotton",2014,"November",37313,3475,3585,3567,"2014-11","Jalna","Maharashtra",TRUE
+"425","Narkhed","cotton",2014,"December",25004,3740,4053,3300,"2014-12","Nagpur","Maharashtra",TRUE
+"432","Narkhed","cotton",2014,"November",17389,3842,3979,3558,"2014-11","Nagpur","Maharashtra",TRUE
+"434","Bhiwapur","cotton",2014,"October",150,3500,3800,3650,"2014-10","Nagpur","Maharashtra",TRUE
+"468","Atpadi","cotton",2014,"October",7,4200,4800,4500,"2014-10","Sangli","Maharashtra",TRUE
+"469","Atpadi","cotton",2014,"September",109,4100,4633,4367,"2014-09","Sangli","Maharashtra",TRUE
+"499","Digras","cotton",2014,"November",1816,3845,3427,3125,"2014-11","Yewatmal","Maharashtra",TRUE
+"509","Darwha","cotton",2014,"October",217,3500,3850,3675,"2014-10","Yewatmal","Maharashtra",TRUE
+"519","Kalamb (Os)","grnut kernels",2014,"September",5,2900,3313,3313,"2014-09","Osmanabad","Maharashtra",TRUE
+"520","Umarga","grnut kernels",2014,"September",2,2701,3101,2701,"2014-09","Osmanabad","Maharashtra",TRUE
+"693","Loha","maize",2014,"December",13,1700,1775,1751,"2014-12","Nanded","Maharashtra",TRUE
+"834","Mumbai","mustard",2014,"November",351,4000,9000,6500,"2014-11","Mumbai","Maharashtra",TRUE
+"835","Mumbai","mustard",2014,"October",2525,4358,8568,6463,"2014-10","Mumbai","Maharashtra",TRUE
+"836","Mumbai","mustard",2014,"September",3147,4324,7267,5795,"2014-09","Mumbai","Maharashtra",TRUE
+"1062","Parli-Vaijnath","pigeon pea tur",2014,"October",134,3808,4292,7439,"2014-10","Beed","Maharashtra",TRUE
+"1118","Sakri","pigeon pea tur",2014,"October",28,2062,2359,2312,"2014-10","Dhule","Maharashtra",TRUE
+"1122","Sakri","pigeon pea tur",2014,"September",1,1515,1515,1515,"2014-09","Dhule","Maharashtra",TRUE
+"1136","Raver","pigeon pea tur",2014,"December",1,2590,2590,2590,"2014-12","Jalgaon","Maharashtra",TRUE
+"1260","Shirur","pigeon pea tur",2014,"October",2,2850,2850,2850,"2014-10","Pune","Maharashtra",TRUE
+"1290","Mohol","pigeon pea tur",2014,"September",6,2750,4053,2900,"2014-09","Solapur","Maharashtra",TRUE
+"1318","Digras","pigeon pea tur",2014,"December",134,4492,2753,2697,"2014-12","Yewatmal","Maharashtra",TRUE
+"1322","Digras","pigeon pea tur",2014,"November",49,4625,635,625,"2014-11","Yewatmal","Maharashtra",TRUE
+"1328","Digras","pigeon pea tur",2014,"October",43,4558,2716,1622,"2014-10","Yewatmal","Maharashtra",TRUE
+"1356","Mumbai","ricepaddyhus",2014,"December",650880,5542,9189,7248,"2014-12","Mumbai","Maharashtra",TRUE
+"1357","Mumbai","ricepaddyhus",2014,"November",466539,6006,9352,7371,"2014-11","Mumbai","Maharashtra",TRUE
+"1358","Mumbai","ricepaddyhus",2014,"October",458169,5520,9467,7473,"2014-10","Mumbai","Maharashtra",TRUE
+"1359","Mumbai","ricepaddyhus",2014,"September",392428,5800,9924,7907,"2014-09","Mumbai","Maharashtra",TRUE
+"1386","Pune","ricepaddyhus",2014,"October",25012,5640,6664,7123,"2014-10","Pune","Maharashtra",TRUE
+"1438","Sinner","safflower",2014,"November",1,3301,3301,3301,"2014-11","Nasik","Maharashtra",TRUE
+"1459","Washim","safflower",2014,"December",2,2900,3000,2950,"2014-12","Wasim","Maharashtra",TRUE
+"1544","Digras","sesamum",2014,"December",6,9419,2438,2388,"2014-12","Yewatmal","Maharashtra",TRUE
+"1546","Digras","sesamum",2014,"November",2,9250,0,0,"2014-11","Yewatmal","Maharashtra",TRUE
+"1548","Digras","sesamum",2014,"October",2,9200,0,0,"2014-10","Yewatmal","Maharashtra",TRUE
+"1550","Digras","sesamum",2014,"September",2,7850,0,0,"2014-09","Yewatmal","Maharashtra",TRUE
+"1854","Devala","sorgumjawar",2014,"November",15,2698,2761,2736,"2014-11","Nasik","Maharashtra",TRUE
+"1895","Pathari","sorgumjawar",2014,"November",6,1500,2600,0,"2014-11","Parbhani","Maharashtra",TRUE
+"1916","Pune","sorgumjawar",2014,"December",10322,2478,2904,2691,"2014-12","Pune","Maharashtra",TRUE
+"1922","Pune","sorgumjawar",2014,"November",9107,2669,3067,2886,"2014-11","Pune","Maharashtra",TRUE
+"1925","Pune","sorgumjawar",2014,"October",6577,2472,2897,2684,"2014-10","Pune","Maharashtra",TRUE
+"1928","Pune","sorgumjawar",2014,"September",7336,2535,2872,2702,"2014-09","Pune","Maharashtra",TRUE
+"1968","Karmala","sorgumjawar",2014,"November",2985,1604,3284,2733,"2014-11","Solapur","Maharashtra",TRUE
+"2007","Digras","sorgumjawar",2014,"December",414,1387,317,310,"2014-12","Yewatmal","Maharashtra",TRUE
+"2013","Digras","sorgumjawar",2014,"October",5,1530,0,0,"2014-10","Yewatmal","Maharashtra",TRUE
+"2015","Digras","sorgumjawar",2014,"September",17,1542,0,0,"2014-09","Yewatmal","Maharashtra",TRUE
+"2016","Kolhapur-Laxmipuri","spilt gerrn gram",2014,"November",65,7400,7400,7400,"2014-11","Kolhapur","Maharashtra",TRUE
+"2018","Kolhapur-Laxmipuri","spilt gerrn gram",2014,"September",197,8533,8993,8707,"2014-09","Kolhapur","Maharashtra",TRUE
+"2038","Achalpur","sunflower",2014,"November",2,3750,3750,3750,"2014-11","Amaravathi","Maharashtra",TRUE
+"2057","Sakri","sunflower",2014,"September",1,1751,1751,1751,"2014-09","Dhule","Maharashtra",TRUE
+"2073","Bhokar","sunflower",2014,"September",4,3700,3700,3700,"2014-09","Nanded","Maharashtra",TRUE
+"2074","Nandurbar","sunflower",2014,"December",506,3076,4016,3650,"2014-12","Nandurbar","Maharashtra",TRUE
+"2081","Sinner","sunflower",2014,"October",1,3800,3800,3800,"2014-10","Nasik","Maharashtra",TRUE
+"2083","Malegaon","sunflower",2014,"September",6,4500,4500,4500,"2014-09","Nasik","Maharashtra",TRUE
+"2084","Satana","sunflower",2014,"September",3,5036,5036,5036,"2014-09","Nasik","Maharashtra",TRUE
+"2108","Jamkhed","wheathusked",2014,"December",155,1879,2231,2055,"2014-12","Ahmadnagar","Maharashtra",TRUE
+"2121","Jamkhed","wheathusked",2014,"November",188,1918,2292,2105,"2014-11","Ahmadnagar","Maharashtra",TRUE
+"2133","Jamkhed","wheathusked",2014,"October",136,1907,2364,2136,"2014-10","Ahmadnagar","Maharashtra",TRUE
+"2145","Jamkhed","wheathusked",2014,"September",280,1936,2400,2168,"2014-09","Ahmadnagar","Maharashtra",TRUE
+"2148","Pathardi","wheathusked",2014,"September",477,1621,2122,1833,"2014-09","Ahmadnagar","Maharashtra",TRUE
+"2246","Kada (Ashti)","wheathusked",2014,"September",3,1700,2100,1900,"2014-09","Beed","Maharashtra",TRUE
+"2291","Buldhana","wheathusked",2014,"September",12,1800,2000,1900,"2014-09","Buldhana","Maharashtra",TRUE
+"2377","Kolhapur-Laxmipuri","wheathusked",2014,"November",775,1950,2750,2350,"2014-11","Kolhapur","Maharashtra",TRUE
+"2378","Kolhapur-Laxmipuri","wheathusked",2014,"October",200,1700,2800,2200,"2014-10","Kolhapur","Maharashtra",TRUE
+"2379","Kolhapur-Laxmipuri","wheathusked",2014,"September",2375,1625,2738,2138,"2014-09","Kolhapur","Maharashtra",TRUE
+"2381","Latur","wheathusked",2014,"December",2412,1537,2618,2114,"2014-12","Latur","Maharashtra",TRUE
+"2384","Latur","wheathusked",2014,"November",1937,1576,2783,2217,"2014-11","Latur","Maharashtra",TRUE
+"2388","Latur","wheathusked",2014,"October",2901,1513,2683,2050,"2014-10","Latur","Maharashtra",TRUE
+"2392","Latur","wheathusked",2014,"September",4450,1512,2796,2208,"2014-09","Latur","Maharashtra",TRUE
+"2395","Mumbai","wheathusked",2014,"November",15335,1800,2900,2333,"2014-11","Mumbai","Maharashtra",TRUE
+"2396","Mumbai","wheathusked",2014,"October",164631,1800,3200,2479,"2014-10","Mumbai","Maharashtra",TRUE
+"2397","Mumbai","wheathusked",2014,"September",130620,1800,3232,2516,"2014-09","Mumbai","Maharashtra",TRUE
+"2400","Nagpur","wheathusked",2014,"December",4088,1616,2041,1828,"2014-12","Nagpur","Maharashtra",TRUE
+"2504","Pathari","wheathusked",2014,"December",64,1428,1701,891,"2014-12","Parbhani","Maharashtra",TRUE
+"2511","Pathari","wheathusked",2014,"November",59,1448,1690,951,"2014-11","Parbhani","Maharashtra",TRUE
+"2519","Pathari","wheathusked",2014,"October",30,1472,1676,484,"2014-10","Parbhani","Maharashtra",TRUE
+"2535","Pune","wheathusked",2014,"December",20709,2250,2628,2439,"2014-12","Pune","Maharashtra",TRUE
+"2540","Pune","wheathusked",2014,"November",16194,2127,2556,2341,"2014-11","Pune","Maharashtra",TRUE
+"2543","Pune","wheathusked",2014,"October",12142,1803,2043,1925,"2014-10","Pune","Maharashtra",TRUE
+"2546","Pune","wheathusked",2014,"September",14940,1906,2164,2044,"2014-09","Pune","Maharashtra",TRUE
+"2548","Sangali","wheathusked",2014,"December",5842,1702,2825,2266,"2014-12","Sangli","Maharashtra",TRUE
+"2549","Tasgaon","wheathusked",2014,"December",40,1800,1900,1850,"2014-12","Sangli","Maharashtra",TRUE
+"2550","Sangali","wheathusked",2014,"November",7133,1660,2805,2238,"2014-11","Sangli","Maharashtra",TRUE
+"2551","Sangali","wheathusked",2014,"October",7517,1611,2822,2261,"2014-10","Sangli","Maharashtra",TRUE
+"2552","Sangali","wheathusked",2014,"September",8218,1625,2779,2202,"2014-09","Sangli","Maharashtra",TRUE
+"2564","Barshi-Vairag","wheathusked",2014,"December",153,1948,2102,1995,"2014-12","Solapur","Maharashtra",TRUE
+"2570","Solapur","wheathusked",2014,"December",8180,1662,2613,2362,"2014-12","Solapur","Maharashtra",TRUE
+"2573","Barshi-Vairag","wheathusked",2014,"November",42,1782,1859,1859,"2014-11","Solapur","Maharashtra",TRUE
+"2579","Solapur","wheathusked",2014,"November",12492,1606,2634,2367,"2014-11","Solapur","Maharashtra",TRUE
+"2583","Barshi-Vairag","wheathusked",2014,"October",48,1951,1951,1951,"2014-10","Solapur","Maharashtra",TRUE
+"2589","Solapur","wheathusked",2014,"October",5466,1715,2574,2327,"2014-10","Solapur","Maharashtra",TRUE
+"2592","Barshi-Vairag","wheathusked",2014,"September",70,1822,1989,1967,"2014-09","Solapur","Maharashtra",TRUE
+"2598","Solapur","wheathusked",2014,"September",6803,1553,2670,2422,"2014-09","Solapur","Maharashtra",TRUE
+"2600","Palghar(Bevur)","wheathusked",2014,"December",56,1901,1971,1936,"2014-12","Thane","Maharashtra",TRUE
+"2602","Bhivandi","wheathusked",2014,"October",63,1467,2067,1900,"2014-10","Thane","Maharashtra",TRUE
+"2603","Vasai","wheathusked",2014,"October",920,1467,3400,2233,"2014-10","Thane","Maharashtra",TRUE
+"2605","Vasai","wheathusked",2014,"September",1180,1700,3400,2050,"2014-09","Thane","Maharashtra",TRUE
+"2626","Digras","wheathusked",2014,"December",340,1329,469,376,"2014-12","Yewatmal","Maharashtra",TRUE
+"2632","Digras","wheathusked",2014,"November",592,1439,1482,1195,"2014-11","Yewatmal","Maharashtra",TRUE
+"2638","Digras","wheathusked",2014,"October",596,1425,1058,458,"2014-10","Yewatmal","Maharashtra",TRUE
+"2646","Digras","wheathusked",2014,"September",488,1502,1315,572,"2014-09","Yewatmal","Maharashtra",TRUE
+"2648","Pandharkawada","wheathusked",2014,"September",9,1163,1213,1188,"2014-09","Yewatmal","Maharashtra",TRUE
+"2652","Ausa","wheatunhusked",2014,"December",1,1501,1501,1501,"2014-12","Latur","Maharashtra",TRUE
+"2664","Sangali","wheatunhusked",2014,"December",1181,3985,4578,4281,"2014-12","Sangli","Maharashtra",TRUE
+"2665","Sangali","wheatunhusked",2014,"November",466,3800,4567,4186,"2014-11","Sangli","Maharashtra",TRUE
+"2670","Mangalwedha","wheatunhusked",2014,"December",6,1625,1625,1625,"2014-12","Solapur","Maharashtra",TRUE
+"30","Pathardi","bajri",2015,"December",370,1306,1630,3322,"2015-12","Ahmadnagar","Maharashtra",TRUE
+"163","Amarawati","bajri",2015,"April",48,1788,2063,1909,"2015-04","Amaravathi","Maharashtra",TRUE
+"169","Amarawati","bajri",2015,"May",72,1802,2096,1944,"2015-05","Amaravathi","Maharashtra",TRUE
+"176","Paithan","bajri",2015,"April",3801,653,653,651,"2015-04","Aurangabad","Maharashtra",TRUE
+"191","Paithan","bajri",2015,"February",4201,1,2,1,"2015-02","Aurangabad","Maharashtra",TRUE
+"304","Kille Dharur","bajri",2015,"November",864,1548,2187,1992,"2015-11","Beed","Maharashtra",TRUE
+"325","Shegaon","bajri",2015,"April",1,1900,1900,1900,"2015-04","Buldhana","Maharashtra",TRUE
+"447","Raver","bajri",2015,"June",50,1145,1151,2452,"2015-06","Jalgaon","Maharashtra",TRUE
+"528","Partur","bajri",2015,"September",91,1865,1975,1905,"2015-09","Jalna","Maharashtra",TRUE
+"529","Kolhapur-Laxmipuri","bajri",2015,"December",136,2050,2300,2200,"2015-12","Kolhapur","Maharashtra",TRUE
+"532","Kolhapur-Laxmipuri","bajri",2015,"November",135,1818,1940,1880,"2015-11","Kolhapur","Maharashtra",TRUE
+"714","Kalamb (Os)","bajri",2015,"November",190,1568,1791,2470,"2015-11","Osmanabad","Maharashtra",TRUE
+"724","Pathari","bajri",2015,"August",26,1384,1457,733,"2015-08","Parbhani","Maharashtra",TRUE
+"729","Pathari","bajri",2015,"January",10,1493,1588,0,"2015-01","Parbhani","Maharashtra",TRUE
+"731","Pathari","bajri",2015,"July",3,1250,1300,0,"2015-07","Parbhani","Maharashtra",TRUE
+"733","Pathari","bajri",2015,"June",10,1250,1332,0,"2015-06","Parbhani","Maharashtra",TRUE
+"736","Pathari","bajri",2015,"March",4,1300,1426,0,"2015-03","Parbhani","Maharashtra",TRUE
+"737","Pathari","bajri",2015,"May",34,1260,1306,663,"2015-05","Parbhani","Maharashtra",TRUE
+"741","Pathari","bajri",2015,"November",105,1435,1250,890,"2015-11","Parbhani","Maharashtra",TRUE
+"745","Pathari","bajri",2015,"October",98,1316,1420,446,"2015-10","Parbhani","Maharashtra",TRUE
+"752","Pune","bajri",2015,"April",146,1819,2069,1944,"2015-04","Pune","Maharashtra",TRUE
+"759","Pune","bajri",2015,"August",181,1871,2054,1996,"2015-08","Pune","Maharashtra",TRUE
+"766","Pune","bajri",2015,"December",1261,1942,2188,2120,"2015-12","Pune","Maharashtra",TRUE
+"767","Pune-Pimpri","bajri",2015,"December",129,1970,2160,2086,"2015-12","Pune","Maharashtra",TRUE
+"771","Pune","bajri",2015,"February",341,1768,2014,1891,"2015-02","Pune","Maharashtra",TRUE
+"776","Nira","bajri",2015,"January",95,1500,2100,1870,"2015-01","Pune","Maharashtra",TRUE
+"783","Pune","bajri",2015,"July",521,1688,1935,1865,"2015-07","Pune","Maharashtra",TRUE
+"806","Pune","bajri",2015,"November",523,1860,2024,1967,"2015-11","Pune","Maharashtra",TRUE
+"815","Pune","bajri",2015,"October",642,1758,1942,1885,"2015-10","Pune","Maharashtra",TRUE
+"822","Pune","bajri",2015,"September",183,1773,1982,1920,"2015-09","Pune","Maharashtra",TRUE
+"925","Ulhasnagar","bajri",2015,"December",1100,2694,4100,3409,"2015-12","Thane","Maharashtra",TRUE
+"926","Kalyan","bajri",2015,"January",3,2000,2400,2200,"2015-01","Thane","Maharashtra",TRUE
+"940","Digras","bajri",2015,"January",23,1708,0,0,"2015-01","Yewatmal","Maharashtra",TRUE
+"943","Digras","bajri",2015,"March",10,1568,0,0,"2015-03","Yewatmal","Maharashtra",TRUE
+"947","Digras","bajri",2015,"October",1,2105,2105,2105,"2015-10","Yewatmal","Maharashtra",TRUE
+"963","Pune","coconut",2015,"October",6000,10,15,13,"2015-10","Pune","Maharashtra",TRUE
+"964","Ulhasnagar","coconut",2015,"December",23700,258,514,386,"2015-12","Thane","Maharashtra",TRUE
+"1028","Fulambri","cotton",2015,"December",26871,4421,4669,4564,"2015-12","Aurangabad","Maharashtra",TRUE
+"1033","Fulambri","cotton",2015,"January",1834,3913,3684,3403,"2015-01","Aurangabad","Maharashtra",TRUE
+"1123","Hingoli","cotton",2015,"December",765,4707,4769,4769,"2015-12","Hingoli","Maharashtra",TRUE
+"1148","Amalner","cotton",2015,"December",155,4000,4600,4600,"2015-12","Jalgaon","Maharashtra",TRUE
+"1188","Jafrabad","cotton",2015,"May",20,1000,1200,1130,"2015-05","Jalna","Maharashtra",TRUE
+"1217","Narkhed","cotton",2015,"February",29324,3893,3701,3471,"2015-02","Nagpur","Maharashtra",TRUE
+"1226","Bhiwapur","cotton",2015,"June",45,1850,3400,3300,"2015-06","Nagpur","Maharashtra",TRUE
+"1231","Narkhed","cotton",2015,"March",12335,3989,3830,3489,"2015-03","Nagpur","Maharashtra",TRUE
+"1237","Narkhed","cotton",2015,"May",2597,3958,4396,3446,"2015-05","Nagpur","Maharashtra",TRUE
+"1243","Narkhed","cotton",2015,"November",13167,3931,4056,2870,"2015-11","Nagpur","Maharashtra",TRUE
+"1249","Narkhed","cotton",2015,"October",4029,4056,4283,2367,"2015-10","Nagpur","Maharashtra",TRUE
+"1268","Kinwat","cotton",2015,"March",710,3405,3524,3464,"2015-03","Nanded","Maharashtra",TRUE
+"1270","Kinwat","cotton",2015,"May",225,3400,3600,3500,"2015-05","Nanded","Maharashtra",TRUE
+"1325","Atpadi","cotton",2015,"July",3,4500,5500,5000,"2015-07","Sangli","Maharashtra",TRUE
+"1344","Ashti (Wardha)","cotton",2015,"January",3025,4598,4643,4628,"2015-01","Wardha","Maharashtra",TRUE
+"1419","Maregaon","cotton",2015,"November",92583,3098,3367,3180,"2015-11","Yewatmal","Maharashtra",TRUE
+"1445","Umarga","grnut kernels",2015,"January",2,2560,2560,2560,"2015-01","Osmanabad","Maharashtra",TRUE
+"1446","Kalamb (Os)","grnut kernels",2015,"June",3,4250,4250,4250,"2015-06","Osmanabad","Maharashtra",TRUE
+"1460","Kurdwadi","grnut kernels",2015,"January",3,3900,3900,3900,"2015-01","Solapur","Maharashtra",TRUE
+"1462","Kurdwadi","grnut kernels",2015,"June",14,3500,3825,3663,"2015-06","Solapur","Maharashtra",TRUE
+"1463","Kurdwadi","grnut kernels",2015,"May",3,3000,3000,3000,"2015-05","Solapur","Maharashtra",TRUE
+"1569","Ahmednagar","maize",2015,"September",21,1688,2019,1860,"2015-09","Ahmadnagar","Maharashtra",TRUE
+"1963","Jamner-Neri","maize",2015,"November",221,2272,2648,2456,"2015-11","Jalgaon","Maharashtra",TRUE
+"1976","Pachora","maize",2015,"September",232,1394,1537,1915,"2015-09","Jalgaon","Maharashtra",TRUE
+"2064","Ahmedpur","maize",2015,"September",12,1500,1771,1771,"2015-09","Latur","Maharashtra",TRUE
+"2085","Shahada","maize",2015,"April",8,1213,6713,6713,"2015-04","Nandurbar","Maharashtra",TRUE
+"2229","Nandgaon","maize",2015,"September",2444,1651,1995,1842,"2015-09","Nasik","Maharashtra",TRUE
+"2271","Murum","maize",2015,"October",10,1786,1786,1786,"2015-10","Osmanabad","Maharashtra",TRUE
+"2351","Pune","maize",2015,"September",825,1716,1790,1764,"2015-09","Pune","Maharashtra",TRUE
+"25921","Mumbai","mustard",2015,"February",167,4800,8000,6400,"2015-02","Mumbai","Maharashtra",TRUE
+"2676","Lakhani","paddyunhusked",2015,"October",970,2366,2400,2387,"2015-10","Bhandara","Maharashtra",TRUE
+"2679","Lakhani","paddyunhusked",2015,"September",2213,2289,2437,2406,"2015-09","Bhandara","Maharashtra",TRUE
+"2738","Sindevahi","paddyunhusked",2015,"October",4701,1998,2099,2665,"2015-10","Chandrapur","Maharashtra",TRUE
+"2855","Ausa","paddyunhusked",2015,"December",2,601,802,701,"2015-12","Latur","Maharashtra",TRUE
+"2856","Ausa","paddyunhusked",2015,"January",3,888,1000,900,"2015-01","Latur","Maharashtra",TRUE
+"2857","Ausa","paddyunhusked",2015,"July",4,726,826,801,"2015-07","Latur","Maharashtra",TRUE
+"2858","Ausa","paddyunhusked",2015,"June",8,601,900,851,"2015-06","Latur","Maharashtra",TRUE
+"2859","Ausa","paddyunhusked",2015,"March",4,650,750,701,"2015-03","Latur","Maharashtra",TRUE
+"2862","Ahmedpur","paddyunhusked",2015,"September",8,631,664,664,"2015-09","Latur","Maharashtra",TRUE
+"2863","Ausa","paddyunhusked",2015,"September",2,851,851,851,"2015-09","Latur","Maharashtra",TRUE
+"2904","Umarga","paddyunhusked",2015,"February",1,750,900,800,"2015-02","Osmanabad","Maharashtra",TRUE
+"3247","Paithan","pigeon pea tur",2015,"April",14500,4,5,5,"2015-04","Aurangabad","Maharashtra",TRUE
+"3969","Devala","pigeon pea tur",2015,"June",5,5926,5926,127201,"2015-06","Nasik","Maharashtra",TRUE
+"4233","Akkolkot","pigeon pea tur",2015,"October",12,11001,13200,12920,"2015-10","Solapur","Maharashtra",TRUE
+"4290","Samudrapur","pigeon pea tur",2015,"October",1,12000,12000,12000,"2015-10","Wardha","Maharashtra",TRUE
+"4487","Mumbai","ricepaddyhus",2015,"April",495108,4754,8250,6377,"2015-04","Mumbai","Maharashtra",TRUE
+"4488","Mumbai","ricepaddyhus",2015,"August",468981,4346,6902,5866,"2015-08","Mumbai","Maharashtra",TRUE
+"4490","Mumbai","ricepaddyhus",2015,"February",497835,4709,7605,6100,"2015-02","Mumbai","Maharashtra",TRUE
+"4491","Mumbai","ricepaddyhus",2015,"January",539077,5300,8351,6767,"2015-01","Mumbai","Maharashtra",TRUE
+"4494","Mumbai","ricepaddyhus",2015,"March",493575,4559,7786,6089,"2015-03","Mumbai","Maharashtra",TRUE
+"4495","Mumbai","ricepaddyhus",2015,"May",436493,4440,8106,6247,"2015-05","Mumbai","Maharashtra",TRUE
+"4537","Nandurbar","ricepaddyhus",2015,"March",8,6000,6000,6000,"2015-03","Nandurbar","Maharashtra",TRUE
+"4713","Akola","safflower",2015,"February",20,1800,1800,1800,"2015-02","Akola","Maharashtra",TRUE
+"4731","Vaijapur","safflower",2015,"November",1,1000,1000,1000,"2015-11","Aurangabad","Maharashtra",TRUE
+"4737","Kej","safflower",2015,"December",1,3300,3300,3300,"2015-12","Beed","Maharashtra",TRUE
+"4741","Gevrai","safflower",2015,"March",1,1500,2000,1800,"2015-03","Beed","Maharashtra",TRUE
+"4756","Khamgaon","safflower",2015,"September",2,1600,1600,1600,"2015-09","Buldhana","Maharashtra",TRUE
+"4759","Jalna","safflower",2015,"December",1021,3050,3650,3550,"2015-12","Jalna","Maharashtra",TRUE
+"4838","Indapur-Bhigwan","safflower",2015,"June",1,1500,1500,1500,"2015-06","Pune","Maharashtra",TRUE
+"4847","Mangrulpeer","safflower",2015,"April",3,1800,1800,1800,"2015-04","Wasim","Maharashtra",TRUE
+"4849","Washim","safflower",2015,"December",2,1031,1031,1031,"2015-12","Wasim","Maharashtra",TRUE
+"4851","Washim","safflower",2015,"October",16,1790,1790,1790,"2015-10","Wasim","Maharashtra",TRUE
+"4852","Shrirampur","sesamum",2015,"January",1,12100,12100,12100,"2015-01","Ahmadnagar","Maharashtra",TRUE
+"4892","Beed","sesamum",2015,"January",27,10193,10668,10580,"2015-01","Beed","Maharashtra",TRUE
+"4893","Gevrai","sesamum",2015,"January",14,10220,10270,10260,"2015-01","Beed","Maharashtra",TRUE
+"4927","Jalgaon Jamod-Aasalgaon","sesamum",2015,"January",4,9500,10500,10000,"2015-01","Buldhana","Maharashtra",TRUE
+"4984","Hingoli","sesamum",2015,"January",8,10000,10000,10000,"2015-01","Hingoli","Maharashtra",TRUE
+"4988","Amalner","sesamum",2015,"December",3,3500,4000,4000,"2015-12","Jalgaon","Maharashtra",TRUE
+"5033","Lasalgaon","sesamum",2015,"January",6,9562,12160,10173,"2015-01","Nasik","Maharashtra",TRUE
+"5068","Barshi","sesamum",2015,"January",4,11000,11000,11000,"2015-01","Solapur","Maharashtra",TRUE
+"5072","Kalyan","sesamum",2015,"January",3,14000,16000,15000,"2015-01","Thane","Maharashtra",TRUE
+"5073","Kalyan","sesamum",2015,"July",12,10250,12000,11313,"2015-07","Thane","Maharashtra",TRUE
+"5075","Kalyan","sesamum",2015,"March",15,10440,12040,11240,"2015-03","Thane","Maharashtra",TRUE
+"5076","Kalyan","sesamum",2015,"September",9,9667,11600,10667,"2015-09","Thane","Maharashtra",TRUE
+"5083","Karanja","sesamum",2015,"November",2,3000,6000,3000,"2015-11","Wasim","Maharashtra",TRUE
+"5084","Digras","sesamum",2015,"April",1,7150,0,0,"2015-04","Yewatmal","Maharashtra",TRUE
+"5089","Digras","sesamum",2015,"January",7,8329,0,0,"2015-01","Yewatmal","Maharashtra",TRUE
+"5093","Digras","sesamum",2015,"June",6,6326,0,0,"2015-06","Yewatmal","Maharashtra",TRUE
+"5095","Digras","sesamum",2015,"May",5,6518,0,0,"2015-05","Yewatmal","Maharashtra",TRUE
+"5388","Paithan","sorgumjawar",2015,"February",4200,1,1,1,"2015-02","Aurangabad","Maharashtra",TRUE
+"5468","Ambejogai","sorgumjawar",2015,"July",28,2635,2670,2662,"2015-07","Beed","Maharashtra",TRUE
+"5474","Kille Dharur","sorgumjawar",2015,"July",81,2413,2575,2534,"2015-07","Beed","Maharashtra",TRUE
+"5477","Ambejogai","sorgumjawar",2015,"June",163,2476,2580,2537,"2015-06","Beed","Maharashtra",TRUE
+"5483","Kille Dharur","sorgumjawar",2015,"June",256,2264,2585,2522,"2015-06","Beed","Maharashtra",TRUE
+"5504","Kada","sorgumjawar",2015,"November",2272,1771,2963,2494,"2015-11","Beed","Maharashtra",TRUE
+"5509","Ambejogai","sorgumjawar",2015,"October",66,2591,2633,2600,"2015-10","Beed","Maharashtra",TRUE
+"5517","Ambejogai","sorgumjawar",2015,"September",50,2752,2772,2760,"2015-09","Beed","Maharashtra",TRUE
+"5522","Kille Dharur","sorgumjawar",2015,"September",171,2538,2821,2728,"2015-09","Beed","Maharashtra",TRUE
+"5888","Kolhapur-Laxmipuri","sorgumjawar",2015,"December",4010,1712,3744,2500,"2015-12","Kolhapur","Maharashtra",TRUE
+"5889","Kolhapur-Laxmipuri","sorgumjawar",2015,"February",960,1681,3813,2925,"2015-02","Kolhapur","Maharashtra",TRUE
+"5890","Kolhapur-Laxmipuri","sorgumjawar",2015,"January",1060,1720,3835,2740,"2015-01","Kolhapur","Maharashtra",TRUE
+"5891","Kolhapur-Laxmipuri","sorgumjawar",2015,"November",3500,1755,3740,2738,"2015-11","Kolhapur","Maharashtra",TRUE
+"5892","Kolhapur-Laxmipuri","sorgumjawar",2015,"October",2400,1726,3543,2557,"2015-10","Kolhapur","Maharashtra",TRUE
+"5898","Latur","sorgumjawar",2015,"August",902,2388,2649,2497,"2015-08","Latur","Maharashtra",TRUE
+"5912","Latur","sorgumjawar",2015,"February",990,2382,2709,2576,"2015-02","Latur","Maharashtra",TRUE
+"5950","Latur","sorgumjawar",2015,"September",631,2525,2763,2659,"2015-09","Latur","Maharashtra",TRUE
+"6090","Devala","sorgumjawar",2015,"April",4,2154,2499,2499,"2015-04","Nasik","Maharashtra",TRUE
+"6106","Malegaon","sorgumjawar",2015,"February",67,1977,2777,2693,"2015-02","Nasik","Maharashtra",TRUE
+"6124","Malegaon","sorgumjawar",2015,"March",171,2151,2770,2628,"2015-03","Nasik","Maharashtra",TRUE
+"6273","Pathari","sorgumjawar",2015,"October",21,1641,1723,0,"2015-10","Parbhani","Maharashtra",TRUE
+"6288","Pune","sorgumjawar",2015,"April",7517,2395,2877,2636,"2015-04","Pune","Maharashtra",TRUE
+"6295","Pune","sorgumjawar",2015,"August",5639,2560,2893,2773,"2015-08","Pune","Maharashtra",TRUE
+"6303","Pune","sorgumjawar",2015,"December",7476,2475,2880,2778,"2015-12","Pune","Maharashtra",TRUE
+"6304","Pune-Pimpri","sorgumjawar",2015,"December",2460,2475,2830,2725,"2015-12","Pune","Maharashtra",TRUE
+"6308","Pune","sorgumjawar",2015,"February",8042,2346,2863,2602,"2015-02","Pune","Maharashtra",TRUE
+"6314","Pune","sorgumjawar",2015,"January",7290,2434,3000,2708,"2015-01","Pune","Maharashtra",TRUE
+"6320","Pune","sorgumjawar",2015,"July",6412,2463,2842,2721,"2015-07","Pune","Maharashtra",TRUE
+"6327","Pune","sorgumjawar",2015,"June",6229,2327,2696,2527,"2015-06","Pune","Maharashtra",TRUE
+"6331","Pune","sorgumjawar",2015,"March",8029,2255,2816,2535,"2015-03","Pune","Maharashtra",TRUE
+"6337","Pune","sorgumjawar",2015,"May",7447,2336,2736,2536,"2015-05","Pune","Maharashtra",TRUE
+"6345","Pune","sorgumjawar",2015,"November",5715,2672,3006,2886,"2015-11","Pune","Maharashtra",TRUE
+"6354","Pune","sorgumjawar",2015,"October",6562,2390,2756,2630,"2015-10","Pune","Maharashtra",TRUE
+"6361","Pune","sorgumjawar",2015,"September",5293,2476,2848,2716,"2015-09","Pune","Maharashtra",TRUE
+"6401","Vaduj","sorgumjawar",2015,"January",2430,2467,2644,2556,"2015-01","Satara","Maharashtra",TRUE
+"6555","Kalyan","sorgumjawar",2015,"August",3,2500,2600,2550,"2015-08","Thane","Maharashtra",TRUE
+"6557","Ulhasnagar","sorgumjawar",2015,"December",1393,2193,3033,2598,"2015-12","Thane","Maharashtra",TRUE
+"6608","Digras","sorgumjawar",2015,"April",539,1534,842,356,"2015-04","Yewatmal","Maharashtra",TRUE
+"6620","Digras","sorgumjawar",2015,"February",35,1499,0,0,"2015-02","Yewatmal","Maharashtra",TRUE
+"6622","Digras","sorgumjawar",2015,"January",90,1368,159,156,"2015-01","Yewatmal","Maharashtra",TRUE
+"6629","Digras","sorgumjawar",2015,"June",193,1533,181,181,"2015-06","Yewatmal","Maharashtra",TRUE
+"6635","Digras","sorgumjawar",2015,"March",89,1495,0,0,"2015-03","Yewatmal","Maharashtra",TRUE
+"6637","Digras","sorgumjawar",2015,"May",436,1531,258,86,"2015-05","Yewatmal","Maharashtra",TRUE
+"6707","Akola","sunflower",2015,"November",33,3300,5200,4600,"2015-11","Akola","Maharashtra",TRUE
+"6711","Amarawati","sunflower",2015,"December",3,6300,6500,6400,"2015-12","Amaravathi","Maharashtra",TRUE
+"6721","Amarawati","sunflower",2015,"November",3,6300,6650,6475,"2015-11","Amaravathi","Maharashtra",TRUE
+"6757","Jalgaon Jamod-Aasalgaon","sunflower",2015,"June",1,2000,2000,2000,"2015-06","Buldhana","Maharashtra",TRUE
+"6773","Shirpur","sunflower",2015,"December",21,4676,5213,5213,"2015-12","Dhule","Maharashtra",TRUE
+"6775","Sakri","sunflower",2015,"June",6,1600,1900,1710,"2015-06","Dhule","Maharashtra",TRUE
+"6776","Shirpur","sunflower",2015,"June",6,2200,2200,2200,"2015-06","Dhule","Maharashtra",TRUE
+"6792","Chalisgaon","sunflower",2015,"November",9,3100,5176,4900,"2015-11","Jalgaon","Maharashtra",TRUE
+"6834","Nandurbar","sunflower",2015,"December",682,3980,5804,5125,"2015-12","Nandurbar","Maharashtra",TRUE
+"6835","Nandurbar","sunflower",2015,"February",178,3423,4569,4084,"2015-02","Nandurbar","Maharashtra",TRUE
+"6836","Nandurbar","sunflower",2015,"January",306,3661,5156,4454,"2015-01","Nandurbar","Maharashtra",TRUE
+"6840","Nandurbar","sunflower",2015,"March",164,3931,4582,4321,"2015-03","Nandurbar","Maharashtra",TRUE
+"6842","Nandurbar","sunflower",2015,"November",922,3698,4765,4441,"2015-11","Nandurbar","Maharashtra",TRUE
+"6844","Sinner","sunflower",2015,"April",1,2000,2000,2000,"2015-04","Nasik","Maharashtra",TRUE
+"6845","Kalvan","sunflower",2015,"August",4,4726,4726,4726,"2015-08","Nasik","Maharashtra",TRUE
+"6849","Lasalgaon","sunflower",2015,"January",6,3441,4081,4001,"2015-01","Nasik","Maharashtra",TRUE
+"6855","Lasalgaon","sunflower",2015,"November",3,1800,5370,4451,"2015-11","Nasik","Maharashtra",TRUE
+"6860","Tuljapur","sunflower",2015,"April",10,3940,4050,3995,"2015-04","Osmanabad","Maharashtra",TRUE
+"6915","Barshi","sunflower",2015,"February",116,4400,5875,5450,"2015-02","Solapur","Maharashtra",TRUE
+"6945","Jamkhed","wheathusked",2015,"August",118,1915,2275,2086,"2015-08","Ahmadnagar","Maharashtra",TRUE
+"6975","Pathardi","wheathusked",2015,"February",332,1513,2133,4451,"2015-02","Ahmadnagar","Maharashtra",TRUE
+"7010","Jamkhed","wheathusked",2015,"June",407,1874,2368,2121,"2015-06","Ahmadnagar","Maharashtra",TRUE
+"7058","Shrirampur-Belapur","wheathusked",2015,"November",473,1385,1595,2163,"2015-11","Ahmadnagar","Maharashtra",TRUE
+"7074","Jamkhed","wheathusked",2015,"September",179,1946,2271,2109,"2015-09","Ahmadnagar","Maharashtra",TRUE
+"7118","Patur","wheathusked",2015,"July",360,3142,1725,3127,"2015-07","Akola","Maharashtra",TRUE
+"7251","Paithan","wheathusked",2015,"April",4726,716,868,823,"2015-04","Aurangabad","Maharashtra",TRUE
+"7309","Ambejogai","wheathusked",2015,"April",45,2011,2263,2150,"2015-04","Beed","Maharashtra",TRUE
+"7315","Kille Dharur","wheathusked",2015,"April",156,2751,3645,3207,"2015-04","Beed","Maharashtra",TRUE
+"7329","Kej","wheathusked",2015,"December",21,2350,2575,2379,"2015-12","Beed","Maharashtra",TRUE
+"7356","Ambejogai","wheathusked",2015,"June",52,2193,2457,2302,"2015-06","Beed","Maharashtra",TRUE
+"7361","Kej","wheathusked",2015,"June",50,1885,2491,2096,"2015-06","Beed","Maharashtra",TRUE
+"7372","Ambejogai","wheathusked",2015,"May",41,2113,2208,2172,"2015-05","Beed","Maharashtra",TRUE
+"7377","Kille Dharur","wheathusked",2015,"May",76,1992,2636,2355,"2015-05","Beed","Maharashtra",TRUE
+"7385","Kille Dharur","wheathusked",2015,"November",23,2111,2498,2342,"2015-11","Beed","Maharashtra",TRUE
+"7549","Dondaicha","wheathusked",2015,"April",75919,1424,1857,2384,"2015-04","Dhule","Maharashtra",TRUE
+"7631","Hingoli","wheathusked",2015,"November",775,2103,2103,2103,"2015-11","Hingoli","Maharashtra",TRUE
+"7801","Kolhapur-Laxmipuri","wheathusked",2015,"December",3340,2371,2885,2702,"2015-12","Kolhapur","Maharashtra",TRUE
+"7802","Kolhapur-Laxmipuri","wheathusked",2015,"February",1860,1786,2800,2314,"2015-02","Kolhapur","Maharashtra",TRUE
+"7803","Kolhapur-Laxmipuri","wheathusked",2015,"January",1135,1867,2850,2283,"2015-01","Kolhapur","Maharashtra",TRUE
+"7804","Kolhapur-Laxmipuri","wheathusked",2015,"November",3890,2324,2900,2619,"2015-11","Kolhapur","Maharashtra",TRUE
+"7805","Kolhapur-Laxmipuri","wheathusked",2015,"October",4250,2300,2792,2533,"2015-10","Kolhapur","Maharashtra",TRUE
+"7806","Ausa","wheathusked",2015,"April",581,1888,2993,2581,"2015-04","Latur","Maharashtra",TRUE
+"7807","Latur","wheathusked",2015,"April",1492,1605,3098,2140,"2015-04","Latur","Maharashtra",TRUE
+"7810","Ausa","wheathusked",2015,"August",42,1608,2782,2444,"2015-08","Latur","Maharashtra",TRUE
+"7811","Latur","wheathusked",2015,"August",2609,1569,2850,2253,"2015-08","Latur","Maharashtra",TRUE
+"7817","Ausa","wheathusked",2015,"December",40,1431,2801,2271,"2015-12","Latur","Maharashtra",TRUE
+"7818","Latur","wheathusked",2015,"December",4175,1525,2893,2539,"2015-12","Latur","Maharashtra",TRUE
+"7827","Ausa","wheathusked",2015,"July",73,1689,2874,2465,"2015-07","Latur","Maharashtra",TRUE
+"7828","Latur","wheathusked",2015,"July",2573,1555,2830,2387,"2015-07","Latur","Maharashtra",TRUE
+"7833","Ausa","wheathusked",2015,"June",148,1678,2733,2483,"2015-06","Latur","Maharashtra",TRUE
+"7834","Latur","wheathusked",2015,"June",2343,1634,3154,2625,"2015-06","Latur","Maharashtra",TRUE
+"7837","Ausa","wheathusked",2015,"March",853,1834,2805,2389,"2015-03","Latur","Maharashtra",TRUE
+"7840","Ausa","wheathusked",2015,"May",252,1465,2905,2337,"2015-05","Latur","Maharashtra",TRUE
+"7841","Latur","wheathusked",2015,"May",1676,1699,3452,2646,"2015-05","Latur","Maharashtra",TRUE
+"7844","Ausa","wheathusked",2015,"November",49,1541,3141,2623,"2015-11","Latur","Maharashtra",TRUE
+"7845","Latur","wheathusked",2015,"November",4400,1519,2944,2627,"2015-11","Latur","Maharashtra",TRUE
+"7849","Ausa","wheathusked",2015,"October",12,1375,2951,2651,"2015-10","Latur","Maharashtra",TRUE
+"7850","Latur","wheathusked",2015,"October",4161,1495,2816,2480,"2015-10","Latur","Maharashtra",TRUE
+"7854","Ausa","wheathusked",2015,"September",59,1426,2668,2270,"2015-09","Latur","Maharashtra",TRUE
+"7855","Latur","wheathusked",2015,"September",3782,1518,2688,2361,"2015-09","Latur","Maharashtra",TRUE
+"8132","Kalamb (Os)","wheathusked",2015,"April",1462,2234,3186,2703,"2015-04","Osmanabad","Maharashtra",TRUE
+"8133","Murum","wheathusked",2015,"April",192,2003,2341,2170,"2015-04","Osmanabad","Maharashtra",TRUE
+"8134","Osmanabad","wheathusked",2015,"April",520,1530,3914,2722,"2015-04","Osmanabad","Maharashtra",TRUE
+"8138","Murum","wheathusked",2015,"August",2,2488,2488,2488,"2015-08","Osmanabad","Maharashtra",TRUE
+"8139","Osmanabad","wheathusked",2015,"August",7,2790,2900,2800,"2015-08","Osmanabad","Maharashtra",TRUE
+"8146","Umarga","wheathusked",2015,"December",9,2010,2168,2098,"2015-12","Osmanabad","Maharashtra",TRUE
+"8155","Osmanabad","wheathusked",2015,"July",32,1796,2550,2156,"2015-07","Osmanabad","Maharashtra",TRUE
+"8157","Kalamb (Os)","wheathusked",2015,"June",643,1747,2597,2106,"2015-06","Osmanabad","Maharashtra",TRUE
+"8158","Osmanabad","wheathusked",2015,"June",65,1900,2689,2234,"2015-06","Osmanabad","Maharashtra",TRUE
+"8161","Kalamb (Os)","wheathusked",2015,"March",1485,2149,2987,2554,"2015-03","Osmanabad","Maharashtra",TRUE
+"8165","Kalamb (Os)","wheathusked",2015,"May",978,2191,3178,2695,"2015-05","Osmanabad","Maharashtra",TRUE
+"8166","Murum","wheathusked",2015,"May",13,2251,2584,2417,"2015-05","Osmanabad","Maharashtra",TRUE
+"8167","Osmanabad","wheathusked",2015,"May",133,1813,2852,2344,"2015-05","Osmanabad","Maharashtra",TRUE
+"8173","Tuljapur","wheathusked",2015,"November",3,2528,2528,2528,"2015-11","Osmanabad","Maharashtra",TRUE
+"8176","Murum","wheathusked",2015,"October",2,2500,2500,2500,"2015-10","Osmanabad","Maharashtra",TRUE
+"8179","Kalamb (Os)","wheathusked",2015,"September",261,1953,2654,2234,"2015-09","Osmanabad","Maharashtra",TRUE
+"8203","Pathari","wheathusked",2015,"February",24,1510,1636,375,"2015-02","Parbhani","Maharashtra",TRUE
+"8209","Pathari","wheathusked",2015,"January",158,1455,1586,828,"2015-01","Parbhani","Maharashtra",TRUE
+"8230","Pathari","wheathusked",2015,"March",139,1513,1914,1069,"2015-03","Parbhani","Maharashtra",TRUE
+"8244","Pathari","wheathusked",2015,"November",15,1651,1984,634,"2015-11","Parbhani","Maharashtra",TRUE
+"8250","Pathari","wheathusked",2015,"October",17,1576,1814,837,"2015-10","Parbhani","Maharashtra",TRUE
+"8257","Pathari","wheathusked",2015,"September",61,1590,1955,1060,"2015-09","Parbhani","Maharashtra",TRUE
+"8265","Pune","wheathusked",2015,"April",15996,2316,2806,2556,"2015-04","Pune","Maharashtra",TRUE
+"8273","Pune","wheathusked",2015,"August",6408,2134,2671,2462,"2015-08","Pune","Maharashtra",TRUE
+"8277","Indapur","wheathusked",2015,"December",150,1531,2504,2193,"2015-12","Pune","Maharashtra",TRUE
+"8281","Pune","wheathusked",2015,"December",7344,2191,2698,2538,"2015-12","Pune","Maharashtra",TRUE
+"8282","Pune-Pimpri","wheathusked",2015,"December",2111,1895,2220,2120,"2015-12","Pune","Maharashtra",TRUE
+"8286","Pune","wheathusked",2015,"February",16674,2163,2567,2365,"2015-02","Pune","Maharashtra",TRUE
+"8292","Pune","wheathusked",2015,"January",12777,2175,2567,2370,"2015-01","Pune","Maharashtra",TRUE
+"8298","Pune","wheathusked",2015,"July",7539,2237,2758,2579,"2015-07","Pune","Maharashtra",TRUE
+"8305","Pune","wheathusked",2015,"June",7660,2086,2757,2488,"2015-06","Pune","Maharashtra",TRUE
+"8308","Pune","wheathusked",2015,"March",18676,2190,2585,2387,"2015-03","Pune","Maharashtra",TRUE
+"8313","Pune","wheathusked",2015,"May",10370,2194,2695,2444,"2015-05","Pune","Maharashtra",TRUE
+"8317","Indapur","wheathusked",2015,"November",122,1487,2511,2111,"2015-11","Pune","Maharashtra",TRUE
+"8319","Indapur-Bhigwan","wheathusked",2015,"November",1027,2269,2959,2410,"2015-11","Pune","Maharashtra",TRUE
+"8321","Pune","wheathusked",2015,"November",5695,2290,2877,2632,"2015-11","Pune","Maharashtra",TRUE
+"8325","Indapur","wheathusked",2015,"October",187,1492,2471,2111,"2015-10","Pune","Maharashtra",TRUE
+"8330","Pune","wheathusked",2015,"October",6866,2249,2721,2544,"2015-10","Pune","Maharashtra",TRUE
+"8337","Pune","wheathusked",2015,"September",7507,2208,2650,2500,"2015-09","Pune","Maharashtra",TRUE
+"8339","Sangali","wheathusked",2015,"April",12473,1669,3015,2331,"2015-04","Sangli","Maharashtra",TRUE
+"8340","Tasgaon","wheathusked",2015,"April",100,2100,2300,2200,"2015-04","Sangli","Maharashtra",TRUE
+"8341","Sangali","wheathusked",2015,"August",7521,1633,2935,2487,"2015-08","Sangli","Maharashtra",TRUE
+"8342","Sangali","wheathusked",2015,"December",7992,1700,3029,2692,"2015-12","Sangli","Maharashtra",TRUE
+"8343","Sangali","wheathusked",2015,"February",5530,1669,2729,2196,"2015-02","Sangli","Maharashtra",TRUE
+"8344","Sangali","wheathusked",2015,"January",5574,1681,2774,2227,"2015-01","Sangli","Maharashtra",TRUE
+"8345","Sangali","wheathusked",2015,"July",5011,1614,2952,2476,"2015-07","Sangli","Maharashtra",TRUE
+"8346","Sangali","wheathusked",2015,"June",6335,1614,3000,2405,"2015-06","Sangli","Maharashtra",TRUE
+"8347","Sangali","wheathusked",2015,"March",13200,1705,2983,2349,"2015-03","Sangli","Maharashtra",TRUE
+"8348","Tasgaon","wheathusked",2015,"March",60,2300,2400,2350,"2015-03","Sangli","Maharashtra",TRUE
+"8349","Sangali","wheathusked",2015,"May",7553,1606,3072,2339,"2015-05","Sangli","Maharashtra",TRUE
+"8350","Sangali","wheathusked",2015,"November",6428,1720,3005,2670,"2015-11","Sangli","Maharashtra",TRUE
+"8351","Sangali","wheathusked",2015,"October",7207,1696,2980,2648,"2015-10","Sangli","Maharashtra",TRUE
+"8352","Sangali","wheathusked",2015,"September",6405,1650,3000,2578,"2015-09","Sangli","Maharashtra",TRUE
+"8403","Solapur","wheathusked",2015,"April",4987,1650,2819,2368,"2015-04","Solapur","Maharashtra",TRUE
+"8411","Solapur","wheathusked",2015,"August",2355,1835,2709,2296,"2015-08","Solapur","Maharashtra",TRUE
+"8417","Mangalwedha","wheathusked",2015,"December",26,2089,2208,2153,"2015-12","Solapur","Maharashtra",TRUE
+"8419","Solapur","wheathusked",2015,"December",3356,2153,2806,2358,"2015-12","Solapur","Maharashtra",TRUE
+"8429","Solapur","wheathusked",2015,"February",6200,1814,2607,2327,"2015-02","Solapur","Maharashtra",TRUE
+"8439","Solapur","wheathusked",2015,"January",7996,1757,2638,2360,"2015-01","Solapur","Maharashtra",TRUE
+"8442","Barshi-Vairag","wheathusked",2015,"July",163,1930,2118,2087,"2015-07","Solapur","Maharashtra",TRUE
+"8449","Solapur","wheathusked",2015,"July",3114,1835,2659,2253,"2015-07","Solapur","Maharashtra",TRUE
+"8459","Solapur","wheathusked",2015,"June",4403,1736,2725,2264,"2015-06","Solapur","Maharashtra",TRUE
+"8463","Barshi-Vairag","wheathusked",2015,"March",173,2072,2462,2301,"2015-03","Solapur","Maharashtra",TRUE
+"8470","Solapur","wheathusked",2015,"March",3559,1639,2677,2337,"2015-03","Solapur","Maharashtra",TRUE
+"8480","Solapur","wheathusked",2015,"May",8968,1738,2676,2259,"2015-05","Solapur","Maharashtra",TRUE
+"8483","Barshi-Vairag","wheathusked",2015,"November",88,2059,2151,2142,"2015-11","Solapur","Maharashtra",TRUE
+"8490","Solapur","wheathusked",2015,"November",2659,2067,2843,2338,"2015-11","Solapur","Maharashtra",TRUE
+"8499","Solapur","wheathusked",2015,"October",4382,2017,2802,2352,"2015-10","Solapur","Maharashtra",TRUE
+"8502","Barshi-Vairag","wheathusked",2015,"September",52,1968,2168,2168,"2015-09","Solapur","Maharashtra",TRUE
+"8508","Solapur","wheathusked",2015,"September",3876,1844,2682,2286,"2015-09","Solapur","Maharashtra",TRUE
+"8511","Kalyan","wheathusked",2015,"August",3,2400,2800,2500,"2015-08","Thane","Maharashtra",TRUE
+"8514","Bhivandi","wheathusked",2015,"December",419,2021,2324,2186,"2015-12","Thane","Maharashtra",TRUE
+"8515","Kalyan","wheathusked",2015,"December",21,2071,2214,2129,"2015-12","Thane","Maharashtra",TRUE
+"8516","Palghar(Bevur)","wheathusked",2015,"December",2178,2093,2369,2157,"2015-12","Thane","Maharashtra",TRUE
+"8517","Ulhasnagar","wheathusked",2015,"December",3757,2130,3030,2568,"2015-12","Thane","Maharashtra",TRUE
+"8530","Vasai","wheathusked",2015,"June",1739,1519,2842,2154,"2015-06","Thane","Maharashtra",TRUE
+"8532","Kalyan","wheathusked",2015,"March",18,2033,2233,2133,"2015-03","Thane","Maharashtra",TRUE
+"8536","Vasai","wheathusked",2015,"May",640,1520,2805,2145,"2015-05","Thane","Maharashtra",TRUE
+"8537","Bhivandi","wheathusked",2015,"November",116,1913,2317,2100,"2015-11","Thane","Maharashtra",TRUE
+"8538","Kalyan","wheathusked",2015,"November",9,2133,2317,2200,"2015-11","Thane","Maharashtra",TRUE
+"8541","Bhivandi","wheathusked",2015,"October",159,2017,2283,2150,"2015-10","Thane","Maharashtra",TRUE
+"8639","Digras","wheathusked",2015,"February",165,1578,320,291,"2015-02","Yewatmal","Maharashtra",TRUE
+"8643","Digras","wheathusked",2015,"January",134,1452,117,111,"2015-01","Yewatmal","Maharashtra",TRUE
+"8741","Barshi","wheatunhusked",2015,"February",1,1500,1500,1500,"2015-02","Solapur","Maharashtra",TRUE
+"57","Pathardi","bajri",2016,"July",242,2175,2880,2540,"2016-07","Ahmadnagar","Maharashtra",TRUE
+"80","Shrirampur","bajri",2016,"June",26,2292,2442,2366,"2016-06","Ahmadnagar","Maharashtra",TRUE
+"547","Kolhapur-Laxmipuri","bajri",2016,"January",119,1938,2310,2194,"2016-01","Kolhapur","Maharashtra",TRUE
+"757","Pathari","bajri",2016,"June",66,1789,2387,2326,"2016-06","Parbhani","Maharashtra",TRUE
+"775","Pune","bajri",2016,"April",576,2155,2282,2251,"2016-04","Pune","Maharashtra",TRUE
+"7831","Pune","bajri",2016,"August",803,2108,2410,2299,"2016-08","Pune","Maharashtra",TRUE
+"792","Pune-Pimpri","bajri",2016,"February",18,2100,2350,2300,"2016-02","Pune","Maharashtra",TRUE
+"809","Pune","bajri",2016,"July",1473,2156,2351,2297,"2016-07","Pune","Maharashtra",TRUE
+"817","Pune","bajri",2016,"June",4031,2098,2286,2229,"2016-06","Pune","Maharashtra",TRUE
+"833","Pune","bajri",2016,"May",3292,2143,2286,2251,"2016-05","Pune","Maharashtra",TRUE
+"849","Pune","bajri",2016,"September",382,2120,2393,2293,"2016-09","Pune","Maharashtra",TRUE
+"946","Ulhasnagar","bajri",2016,"April",645,1971,2974,2450,"2016-04","Thane","Maharashtra",TRUE
+"948","Ulhasnagar","bajri",2016,"August",1324,1733,2642,2208,"2016-08","Thane","Maharashtra",TRUE
+"950","Ulhasnagar","bajri",2016,"February",548,1950,2875,2413,"2016-02","Thane","Maharashtra",TRUE
+"952","Ulhasnagar","bajri",2016,"January",1677,1883,2783,2333,"2016-01","Thane","Maharashtra",TRUE
+"958","Ulhasnagar","bajri",2016,"March",860,1967,2954,2442,"2016-03","Thane","Maharashtra",TRUE
+"960","Ulhasnagar","bajri",2016,"May",1260,1986,3043,2471,"2016-05","Thane","Maharashtra",TRUE
+"9631","Ulhasnagar","bajri",2016,"September",1090,1955,2555,2255,"2016-09","Thane","Maharashtra",TRUE
+"966","Karanja","bajri",2016,"May",225,5775,5960,5850,"2016-05","Wasim","Maharashtra",TRUE
+"1044","Raver","bajri",2016,"November",1,900,900,900,"2016-11","Jalgaon","Maharashtra",TRUE
+"1064","Pune","bajri",2016,"November",3257,2126,2415,2313,"2016-11","Pune","Maharashtra",TRUE
+"1114","Akot","cotton",2016,"June",750,5405,5470,5438,"2016-06","Akola","Maharashtra",TRUE
+"11231","Dharni","cotton",2016,"April",20,3500,3600,3550,"2016-04","Amaravathi","Maharashtra",TRUE
+"1134","Amarawati","cotton",2016,"June",1899,5524,5662,5591,"2016-06","Amaravathi","Maharashtra",TRUE
+"1248","Jafrabad","cotton",2016,"June",70,1300,1500,1400,"2016-06","Jalna","Maharashtra",TRUE
+"1504","Kolhapur-Laxmipuri","grnut kernels",2016,"August",146,10317,10642,10454,"2016-08","Kolhapur","Maharashtra",TRUE
+"1507","Kolhapur-Laxmipuri","grnut kernels",2016,"July",106,9704,10100,9900,"2016-07","Kolhapur","Maharashtra",TRUE
+"1512","Kolhapur-Laxmipuri","grnut kernels",2016,"September",137,9609,10118,9864,"2016-09","Kolhapur","Maharashtra",TRUE
+"1516","Pune-Pimpri","grnut kernels",2016,"February",83,4900,5200,5100,"2016-02","Pune","Maharashtra",TRUE
+"1529","Kalyan","grnut kernels",2016,"January",12,6000,6700,6425,"2016-01","Thane","Maharashtra",TRUE
+"1549","Ahmednagar","maize",2016,"August",35,1776,2051,1931,"2016-08","Ahmadnagar","Maharashtra",TRUE
+"1672","Varud","maize",2016,"October",2784,25,50,50,"2016-10","Amaravathi","Maharashtra",TRUE
+"1715","Paithan","maize",2016,"June",10,1731,2091,1911,"2016-06","Aurangabad","Maharashtra",TRUE
+"1734","Fulambri","maize",2016,"October",655,880,970,900,"2016-10","Aurangabad","Maharashtra",TRUE
+"1860","Lonar","maize",2016,"June",20,800,820,810,"2016-06","Buldhana","Maharashtra",TRUE
+"1904","Mehkar","maize",2016,"September",13,1990,2011,2000,"2016-09","Buldhana","Maharashtra",TRUE
+"1948","Sakri","maize",2016,"October",1265,883,937,900,"2016-10","Dhule","Maharashtra",TRUE
+"2059","Chalisgaon","maize",2016,"October",29340,780,1166,965,"2016-10","Jalgaon","Maharashtra",TRUE
+"2061","Dharangaon","maize",2016,"October",209,924,999,968,"2016-10","Jalgaon","Maharashtra",TRUE
+"2063","Jalgaon-Masawat","maize",2016,"October",3390,909,940,927,"2016-10","Jalgaon","Maharashtra",TRUE
+"2100","Ambad(Vadi Godri)","maize",2016,"June",3,1850,2351,1900,"2016-06","Jalna","Maharashtra",TRUE
+"2115","Ambad(Vadi Godri)","maize",2016,"October",262,839,1172,901,"2016-10","Jalna","Maharashtra",TRUE
+"2120","Jalna-Badnapur","maize",2016,"October",2318,933,1060,979,"2016-10","Jalna","Maharashtra",TRUE
+"2129","Kolhapur-Laxmipuri","maize",2016,"July",99,1883,2190,2031,"2016-07","Kolhapur","Maharashtra",TRUE
+"2134","Kolhapur-Laxmipuri","maize",2016,"September",128,1833,1967,1900,"2016-09","Kolhapur","Maharashtra",TRUE
+"2164","Udgir","maize",2016,"October",150,4600,5050,5050,"2016-10","Latur","Maharashtra",TRUE
+"2283","Lasalgaon-Vinchur","maize",2016,"July",11,2012,2012,2012,"2016-07","Nasik","Maharashtra",TRUE
+"2344","Sinner","maize",2016,"September",4,1964,1964,1964,"2016-09","Nasik","Maharashtra",TRUE
+"2394","Pune","maize",2016,"August",226,1875,1950,1919,"2016-08","Pune","Maharashtra",TRUE
+"2416","Pune","maize",2016,"July",104,1850,1925,1911,"2016-07","Pune","Maharashtra",TRUE
+"2441","Shirur","maize",2016,"May",33,1946,1946,1946,"2016-05","Pune","Maharashtra",TRUE
+"2453","Indapur-Bhigwan","maize",2016,"September",95,1872,2122,2005,"2016-09","Pune","Maharashtra",TRUE
+"25041","Phaltan","maize",2016,"July",53,1770,2284,2067,"2016-07","Satara","Maharashtra",TRUE
+"25191","Phaltan","maize",2016,"September",113,1601,2313,1950,"2016-09","Satara","Maharashtra",TRUE
+"2630","Pathari","maize",2016,"November",13,4200,4601,4400,"2016-11","Parbhani","Maharashtra",TRUE
+"2671","Kannad","maize",2016,"November",27334,905,1055,981,"2016-11","Aurangabad","Maharashtra",TRUE
+"2678","Fulambri","maize",2016,"November",2314,652,1092,678,"2016-11","Aurangabad","Maharashtra",TRUE
+"2697","Sakri","maize",2016,"November",23003,871,1143,971,"2016-11","Dhule","Maharashtra",TRUE
+"2705","Raver-Sawada","maize",2016,"November",100,925,983,950,"2016-11","Jalgaon","Maharashtra",TRUE
+"2726","Kolhapur-Laxmipuri","maize",2016,"November",108,1900,2000,1950,"2016-11","Kolhapur","Maharashtra",TRUE
+"3173","Akkolkot","paddyunhusked",2016,"October",3,701,701,701,"2016-10","Solapur","Maharashtra",TRUE
+"3632","Tumsar","pigeon pea tur",2016,"October",2,3211,3211,3211,"2016-10","Bhandara","Maharashtra",TRUE
+"3816","Dondaicha","pigeon pea tur",2016,"October",1,3500,3500,3500,"2016-10","Dhule","Maharashtra",TRUE
+"3817","Sakri","pigeon pea tur",2016,"October",52,3213,3384,3254,"2016-10","Dhule","Maharashtra",TRUE
+"3820","Sakri","pigeon pea tur",2016,"September",3,1800,2800,2000,"2016-09","Dhule","Maharashtra",TRUE
+"3888","Parola","pigeon pea tur",2016,"August",9,2700,2700,2700,"2016-08","Jalgaon","Maharashtra",TRUE
+"3929","Parola","pigeon pea tur",2016,"October",6,3000,3000,3000,"2016-10","Jalgaon","Maharashtra",TRUE
+"3933","Parola","pigeon pea tur",2016,"September",3,2600,2600,2600,"2016-09","Jalgaon","Maharashtra",TRUE
+"4827","Sindi (Selu)","pigeon pea tur",2016,"November",39,1810,5435,2540,"2016-11","Wardha","Maharashtra",TRUE
+"4903","Dhule","pigeon pea tur",2016,"November",33,3429,3814,3529,"2016-11","Dhule","Maharashtra",TRUE
+"4904","Sakri","pigeon pea tur",2016,"November",25,3061,3593,3300,"2016-11","Dhule","Maharashtra",TRUE
+"4907","Nampur","pigeon pea tur",2016,"November",16,2625,2942,2704,"2016-11","Nasik","Maharashtra",TRUE
+"4985","Mumbai","ricepaddyhus",2016,"June",467511,4798,7259,6028,"2016-06","Mumbai","Maharashtra",TRUE
+"49881","Mumbai","ricepaddyhus",2016,"October",436662,4816,7702,6258,"2016-10","Mumbai","Maharashtra",TRUE
+"5248","Mumbai","ricepaddyhus",2016,"November",606337,4562,9381,6023,"2016-11","Mumbai","Maharashtra",TRUE
+"5252","Akola","safflower",2016,"February",32,1850,1875,1875,"2016-02","Akola","Maharashtra",TRUE
+"5254","Murtizapur","safflower",2016,"March",50,1750,1981,1860,"2016-03","Akola","Maharashtra",TRUE
+"5255","Akola","safflower",2016,"May",28,1811,1811,1811,"2016-05","Akola","Maharashtra",TRUE
+"5256","Daryapur","safflower",2016,"June",33,1800,1800,1800,"2016-06","Amaravathi","Maharashtra",TRUE
+"5289","Shegaon","safflower",2016,"June",10,1870,1870,1870,"2016-06","Buldhana","Maharashtra",TRUE
+"5291","Shegaon","safflower",2016,"May",5,1765,1765,1765,"2016-05","Buldhana","Maharashtra",TRUE
+"5309","Udgir","safflower",2016,"April",194,4315,4422,4422,"2016-04","Latur","Maharashtra",TRUE
+"5329","Latur-Murud","safflower",2016,"June",3,4201,4201,4201,"2016-06","Latur","Maharashtra",TRUE
+"5345","Nandurbar","safflower",2016,"April",1,3600,3600,3600,"2016-04","Nandurbar","Maharashtra",TRUE
+"5346","Nandurbar","safflower",2016,"February",27,3250,3500,3375,"2016-02","Nandurbar","Maharashtra",TRUE
+"5347","Nandurbar","safflower",2016,"March",136,3767,4517,4200,"2016-03","Nandurbar","Maharashtra",TRUE
+"5348","Sinner","safflower",2016,"February",2,3200,3200,3200,"2016-02","Nasik","Maharashtra",TRUE
+"5389","Sonpeth","safflower",2016,"October",10,4082,4082,4082,"2016-10","Parbhani","Maharashtra",TRUE
+"5393","Pune-Pimpri","safflower",2016,"June",350,300,400,366,"2016-06","Pune","Maharashtra",TRUE
+"5442","Vaijapur","sesamum",2016,"March",1,8501,8501,8501,"2016-03","Aurangabad","Maharashtra",TRUE
+"54831","Malkapur","sesamum",2016,"October",4,1365,1785,1500,"2016-10","Buldhana","Maharashtra",TRUE
+"5489","Dhule","sesamum",2016,"August",3,1500,1500,1500,"2016-08","Dhule","Maharashtra",TRUE
+"5498","Dondaicha","sesamum",2016,"March",15,1425,1566,1538,"2016-03","Dhule","Maharashtra",TRUE
+"5500","Dhule","sesamum",2016,"October",15,8401,8401,8401,"2016-10","Dhule","Maharashtra",TRUE
+"5515","Yawal","sesamum",2016,"July",6,7700,8500,8100,"2016-07","Jalgaon","Maharashtra",TRUE
+"5540","Nagpur","sesamum",2016,"June",190,2100,2300,2250,"2016-06","Nagpur","Maharashtra",TRUE
+"5578","Kalyan","sesamum",2016,"August",18,9000,10600,9817,"2016-08","Thane","Maharashtra",TRUE
+"5579","Kalyan","sesamum",2016,"January",12,9500,11000,10650,"2016-01","Thane","Maharashtra",TRUE
+"5580","Kalyan","sesamum",2016,"July",15,9000,10280,9640,"2016-07","Thane","Maharashtra",TRUE
+"5581","Kalyan","sesamum",2016,"March",9,8333,10000,9167,"2016-03","Thane","Maharashtra",TRUE
+"5582","Kalyan","sesamum",2016,"May",6,7800,9400,9000,"2016-05","Thane","Maharashtra",TRUE
+"5583","Kalyan","sesamum",2016,"September",6,9000,11000,10000,"2016-09","Thane","Maharashtra",TRUE
+"5817","Daryapur","sorgumjawar",2016,"February",6,800,800,800,"2016-02","Amaravathi","Maharashtra",TRUE
+"5867","Varud","sorgumjawar",2016,"October",3646,14,30,30,"2016-10","Amaravathi","Maharashtra",TRUE
+"5868","Varud-Rajura Bazar","sorgumjawar",2016,"October",4064,576,651,601,"2016-10","Amaravathi","Maharashtra",TRUE
+"6395","Kolhapur-Laxmipuri","sorgumjawar",2016,"April",6075,1722,3688,3000,"2016-04","Kolhapur","Maharashtra",TRUE
+"6396","Kolhapur-Laxmipuri","sorgumjawar",2016,"August",1325,1748,3906,2488,"2016-08","Kolhapur","Maharashtra",TRUE
+"6397","Kolhapur-Laxmipuri","sorgumjawar",2016,"February",6570,1708,3521,3000,"2016-02","Kolhapur","Maharashtra",TRUE
+"6398","Kolhapur-Laxmipuri","sorgumjawar",2016,"January",6490,1752,3721,2688,"2016-01","Kolhapur","Maharashtra",TRUE
+"6399","Kolhapur-Laxmipuri","sorgumjawar",2016,"July",1961,1776,3585,2691,"2016-07","Kolhapur","Maharashtra",TRUE
+"6400","Kolhapur-Laxmipuri","sorgumjawar",2016,"June",2380,1751,3521,2919,"2016-06","Kolhapur","Maharashtra",TRUE
+"64011","Kolhapur-Laxmipuri","sorgumjawar",2016,"March",6610,1731,3627,3092,"2016-03","Kolhapur","Maharashtra",TRUE
+"6402","Kolhapur-Laxmipuri","sorgumjawar",2016,"May",7110,1725,3560,3413,"2016-05","Kolhapur","Maharashtra",TRUE
+"6403","Kolhapur-Laxmipuri","sorgumjawar",2016,"October",735,2030,4000,2585,"2016-10","Kolhapur","Maharashtra",TRUE
+"6515","Umared","sorgumjawar",2016,"October",5,2500,2500,2500,"2016-10","Nagpur","Maharashtra",TRUE
+"6696","Tuljapur","sorgumjawar",2016,"February",20,2638,2638,2638,"2016-02","Osmanabad","Maharashtra",TRUE
+"6820","Pune","sorgumjawar",2016,"April",5590,2541,2856,2759,"2016-04","Pune","Maharashtra",TRUE
+"6828","Pune","sorgumjawar",2016,"August",10304,2876,3128,3039,"2016-08","Pune","Maharashtra",TRUE
+"68361","Pune","sorgumjawar",2016,"February",13135,2390,2710,2618,"2016-02","Pune","Maharashtra",TRUE
+"6837","Pune-Pimpri","sorgumjawar",2016,"February",581,2500,2750,2675,"2016-02","Pune","Maharashtra",TRUE
+"68451","Pune","sorgumjawar",2016,"January",6992,2285,2724,2620,"2016-01","Pune","Maharashtra",TRUE
+"6846","Pune-Pimpri","sorgumjawar",2016,"January",3783,2404,2829,2690,"2016-01","Pune","Maharashtra",TRUE
+"6853","Pune","sorgumjawar",2016,"July",9742,2628,2988,2878,"2016-07","Pune","Maharashtra",TRUE
+"68551","Talegaon Dabhade","sorgumjawar",2016,"July",4,786,786,786,"2016-07","Pune","Maharashtra",TRUE
+"6870","Pune","sorgumjawar",2016,"March",13391,2561,2844,2769,"2016-03","Pune","Maharashtra",TRUE
+"6886","Pune","sorgumjawar",2016,"October",12183,2513,2858,2734,"2016-10","Pune","Maharashtra",TRUE
+"6894","Pune","sorgumjawar",2016,"September",9181,2602,2924,2781,"2016-09","Pune","Maharashtra",TRUE
+"6925","Vai","sorgumjawar",2016,"April",41,500,600,570,"2016-04","Satara","Maharashtra",TRUE
+"6983","Dudhani","sorgumjawar",2016,"February",609,2434,2723,2622,"2016-02","Solapur","Maharashtra",TRUE
+"6984","Karmala","sorgumjawar",2016,"February",16090,1664,3287,2540,"2016-02","Solapur","Maharashtra",TRUE
+"7065","Ulhasnagar","sorgumjawar",2016,"August",1085,2991,4000,3518,"2016-08","Thane","Maharashtra",TRUE
+"7069","Ulhasnagar","sorgumjawar",2016,"January",1679,2032,2984,2508,"2016-01","Thane","Maharashtra",TRUE
+"7071","Ulhasnagar","sorgumjawar",2016,"July",1270,2656,3964,3464,"2016-07","Thane","Maharashtra",TRUE
+"7072","Kalyan","sorgumjawar",2016,"June",3,2100,2600,2500,"2016-06","Thane","Maharashtra",TRUE
+"7073","Ulhasnagar","sorgumjawar",2016,"June",1105,2560,3867,3333,"2016-06","Thane","Maharashtra",TRUE
+"7080","Ulhasnagar","sorgumjawar",2016,"September",1170,2442,3367,2942,"2016-09","Thane","Maharashtra",TRUE
+"7174","Murum","sorgumjawar",2016,"November",1,2600,2600,2600,"2016-11","Osmanabad","Maharashtra",TRUE
+"7221","Sangali","sorgumjawar",2016,"November",14301,1943,2873,2509,"2016-11","Sangli","Maharashtra",TRUE
+"7228","Solapur","sorgumjawar",2016,"November",720,2335,2687,2527,"2016-11","Solapur","Maharashtra",TRUE
+"7300","Nampur","sorgumjawar",2016,"November",1,3150,3150,3150,"2016-11","Nasik","Maharashtra",TRUE
+"7301","Kolhapur-Laxmipuri","sorgumjawar",2016,"November",1464,2372,4044,3140,"2016-11","Kolhapur","Maharashtra",TRUE
+"7306","Pune","sorgumjawar",2016,"November",13870,2804,3072,2973,"2016-11","Pune","Maharashtra",TRUE
+"73611","Mumbai","split black gram",2016,"October",21267,9826,10852,10339,"2016-10","Mumbai","Maharashtra",TRUE
+"7364","Mumbai","split black gram",2016,"November",19579,9228,10176,9702,"2016-11","Mumbai","Maharashtra",TRUE
+"7365","Sillod","sugarcane",2016,"April",3,2800,3000,3000,"2016-04","Aurangabad","Maharashtra",TRUE
+"7374","Ulhasnagar","sugarcane",2016,"November",170,200,500,350,"2016-11","Thane","Maharashtra",TRUE
+"7382","Akola","sunflower",2016,"April",92,4177,4660,4418,"2016-04","Akola","Maharashtra",TRUE
+"7388","Akola","sunflower",2016,"March",53,5487,5487,5487,"2016-03","Akola","Maharashtra",TRUE
+"7392","Amarawati","sunflower",2016,"October",1439,5500,5875,5688,"2016-10","Amaravathi","Maharashtra",TRUE
+"7395","Sillod","sunflower",2016,"June",5,1900,2200,2000,"2016-06","Aurangabad","Maharashtra",TRUE
+"7422","Dondaicha-Sindkheda","sunflower",2016,"April",5,4300,4300,4300,"2016-04","Dhule","Maharashtra",TRUE
+"7424","Shirpur","sunflower",2016,"March",4,1851,1851,1851,"2016-03","Dhule","Maharashtra",TRUE
+"7425","Sakri","sunflower",2016,"May",1,4444,4444,4444,"2016-05","Dhule","Maharashtra",TRUE
+"7472","Nandurbar","sunflower",2016,"April",678,3633,5565,4696,"2016-04","Nandurbar","Maharashtra",TRUE
+"7473","Nandurbar","sunflower",2016,"February",294,4148,4904,4534,"2016-02","Nandurbar","Maharashtra",TRUE
+"7474","Nandurbar","sunflower",2016,"January",445,4396,5184,4692,"2016-01","Nandurbar","Maharashtra",TRUE
+"7540","Pusad","sunflower",2016,"August",1,4805,4805,4805,"2016-08","Yewatmal","Maharashtra",TRUE
+"7544","Amarawati","sunflower",2016,"November",15,4870,5609,5239,"2016-11","Amaravathi","Maharashtra",TRUE
+"7553","Sakri","sunflower",2016,"November",6,1800,2350,2000,"2016-11","Dhule","Maharashtra",TRUE
+"7556","Lasalgaon","sunflower",2016,"November",3,3201,5851,4751,"2016-11","Nasik","Maharashtra",TRUE
+"7557","Lasalgaon-Niphad","sunflower",2016,"November",1,5701,5701,5701,"2016-11","Nasik","Maharashtra",TRUE
+"7606","Jamkhed","wheathusked",2016,"January",85,2248,2400,2324,"2016-01","Ahmadnagar","Maharashtra",TRUE
+"7661","Ahmednagar","wheathusked",2016,"May",670,2552,2969,2824,"2016-05","Ahmadnagar","Maharashtra",TRUE
+"7708","Murtizapur","wheathusked",2016,"April",1930,2533,2705,2631,"2016-04","Akola","Maharashtra",TRUE
+"7711","Akola","wheathusked",2016,"August",936,1991,2734,2368,"2016-08","Akola","Maharashtra",TRUE
+"7729","Akola","wheathusked",2016,"July",656,2083,2594,2338,"2016-07","Akola","Maharashtra",TRUE
+"7945","Kille Dharur","wheathusked",2016,"August",42,2106,2477,2330,"2016-08","Beed","Maharashtra",TRUE
+"7957","Kada (Ashti)","wheathusked",2016,"January",2,2500,2500,2500,"2016-01","Beed","Maharashtra",TRUE
+"7966","Kille Dharur","wheathusked",2016,"July",42,2110,2556,2440,"2016-07","Beed","Maharashtra",TRUE
+"7972","Kej","wheathusked",2016,"June",4,2363,2488,2363,"2016-06","Beed","Maharashtra",TRUE
+"7976","Ambejogai","wheathusked",2016,"March",1,2810,2810,2810,"2016-03","Beed","Maharashtra",TRUE
+"7981","Kille Dharur","wheathusked",2016,"March",66,2419,3083,2721,"2016-03","Beed","Maharashtra",TRUE
+"8190","Hingoli","wheathusked",2016,"April",208,2385,2385,2385,"2016-04","Hingoli","Maharashtra",TRUE
+"8210","Hingoli","wheathusked",2016,"March",545,2342,2342,2342,"2016-03","Hingoli","Maharashtra",TRUE
+"8215","Hingoli","wheathusked",2016,"May",220,2325,2325,2325,"2016-05","Hingoli","Maharashtra",TRUE
+"8389","Kolhapur-Laxmipuri","wheathusked",2016,"April",6260,2325,2998,2750,"2016-04","Kolhapur","Maharashtra",TRUE
+"8390","Kolhapur-Laxmipuri","wheathusked",2016,"August",2275,2192,3154,2563,"2016-08","Kolhapur","Maharashtra",TRUE
+"8391","Kolhapur-Laxmipuri","wheathusked",2016,"February",5790,2400,2946,2760,"2016-02","Kolhapur","Maharashtra",TRUE
+"8392","Kolhapur-Laxmipuri","wheathusked",2016,"January",5610,2342,2788,2700,"2016-01","Kolhapur","Maharashtra",TRUE
+"8393","Kolhapur-Laxmipuri","wheathusked",2016,"July",2175,2241,3061,2609,"2016-07","Kolhapur","Maharashtra",TRUE
+"8394","Kolhapur-Laxmipuri","wheathusked",2016,"June",3120,2340,2921,2719,"2016-06","Kolhapur","Maharashtra",TRUE
+"8395","Kolhapur-Laxmipuri","wheathusked",2016,"March",6640,2277,2877,2750,"2016-03","Kolhapur","Maharashtra",TRUE
+"8396","Kolhapur-Laxmipuri","wheathusked",2016,"May",6280,2300,2896,2737,"2016-05","Kolhapur","Maharashtra",TRUE
+"8397","Kolhapur-Laxmipuri","wheathusked",2016,"October",1930,1900,3288,2570,"2016-10","Kolhapur","Maharashtra",TRUE
+"8398","Kolhapur-Laxmipuri","wheathusked",2016,"September",2250,1823,3286,2600,"2016-09","Kolhapur","Maharashtra",TRUE
+"8400","Ausa","wheathusked",2016,"April",87,1834,2802,2557,"2016-04","Latur","Maharashtra",TRUE
+"8402","Latur-Murud","wheathusked",2016,"April",296,1888,2897,2375,"2016-04","Latur","Maharashtra",TRUE
+"8408","Ausa","wheathusked",2016,"February",58,2093,2841,2578,"2016-02","Latur","Maharashtra",TRUE
+"8409","Latur","wheathusked",2016,"February",2247,1534,2913,2362,"2016-02","Latur","Maharashtra",TRUE
+"8413","Ausa","wheathusked",2016,"January",54,1591,2801,2501,"2016-01","Latur","Maharashtra",TRUE
+"8414","Latur","wheathusked",2016,"January",2155,1518,2872,2448,"2016-01","Latur","Maharashtra",TRUE
+"84171","Ausa","wheathusked",2016,"July",1,2200,3000,2500,"2016-07","Latur","Maharashtra",TRUE
+"8421","Ausa","wheathusked",2016,"June",16,1750,2897,2567,"2016-06","Latur","Maharashtra",TRUE
+"8426","Ausa","wheathusked",2016,"March",99,2078,3111,2754,"2016-03","Latur","Maharashtra",TRUE
+"8428","Latur-Murud","wheathusked",2016,"March",69,2346,3373,2850,"2016-03","Latur","Maharashtra",TRUE
+"8430","Ausa","wheathusked",2016,"May",34,2188,2929,2584,"2016-05","Latur","Maharashtra",TRUE
+"8438","Ausa","wheathusked",2016,"September",16,2026,2726,2451,"2016-09","Latur","Maharashtra",TRUE
+"8696","Nandgaon","wheathusked",2016,"September",3,5600,6600,6600,"2016-09","Nasik","Maharashtra",TRUE
+"8700","Kalamb (Os)","wheathusked",2016,"April",252,2920,4143,3765,"2016-04","Osmanabad","Maharashtra",TRUE
+"8701","Osmanabad","wheathusked",2016,"April",66,1945,4367,3227,"2016-04","Osmanabad","Maharashtra",TRUE
+"8703","Kalamb (Os)","wheathusked",2016,"August",58,1958,2524,2327,"2016-08","Osmanabad","Maharashtra",TRUE
+"8704","Murum","wheathusked",2016,"August",5,2400,2400,2400,"2016-08","Osmanabad","Maharashtra",TRUE
+"8707","Kalamb (Os)","wheathusked",2016,"February",164,2000,2660,2422,"2016-02","Osmanabad","Maharashtra",TRUE
+"8708","Murum","wheathusked",2016,"February",1,2811,2811,2811,"2016-02","Osmanabad","Maharashtra",TRUE
+"8709","Tuljapur","wheathusked",2016,"February",21,2541,2541,2541,"2016-02","Osmanabad","Maharashtra",TRUE
+"8715","Kalamb (Os)","wheathusked",2016,"July",16,2142,2972,2379,"2016-07","Osmanabad","Maharashtra",TRUE
+"8717","Kalamb (Os)","wheathusked",2016,"June",78,2080,2574,2409,"2016-06","Osmanabad","Maharashtra",TRUE
+"8721","Kalamb (Os)","wheathusked",2016,"March",199,2684,3680,3238,"2016-03","Osmanabad","Maharashtra",TRUE
+"8722","Murum","wheathusked",2016,"March",5,2496,2496,2496,"2016-03","Osmanabad","Maharashtra",TRUE
+"8723","Osmanabad","wheathusked",2016,"March",41,2418,3040,2738,"2016-03","Osmanabad","Maharashtra",TRUE
+"8724","Tuljapur","wheathusked",2016,"March",1,3201,3201,3201,"2016-03","Osmanabad","Maharashtra",TRUE
+"8726","Kalamb (Os)","wheathusked",2016,"May",170,2492,3615,3044,"2016-05","Osmanabad","Maharashtra",TRUE
+"8729","Kalamb (Os)","wheathusked",2016,"October",110,2119,2744,2338,"2016-10","Osmanabad","Maharashtra",TRUE
+"8791","Sonpeth","wheathusked",2016,"September",7,5573,5573,5573,"2016-09","Parbhani","Maharashtra",TRUE
+"8799","Pune","wheathusked",2016,"April",7676,2299,2621,2520,"2016-04","Pune","Maharashtra",TRUE
+"8807","Pune","wheathusked",2016,"August",7235,2123,2525,2379,"2016-08","Pune","Maharashtra",TRUE
+"8815","Pune","wheathusked",2016,"February",10432,2009,2456,2333,"2016-02","Pune","Maharashtra",TRUE
+"8832","Pune","wheathusked",2016,"July",7275,2041,2529,2419,"2016-07","Pune","Maharashtra",TRUE
+"8847","Pune","wheathusked",2016,"March",10816,2039,2470,2347,"2016-03","Pune","Maharashtra",TRUE
+"8869","Pune","wheathusked",2016,"September",5482,2157,2437,2336,"2016-09","Pune","Maharashtra",TRUE
+"8871","Khalapur(Shil-Phata)","wheathusked",2016,"August",129,2250,3763,3013,"2016-08","Raigad","Maharashtra",TRUE
+"8872","Khalapur(Shil-Phata)","wheathusked",2016,"July",170,2200,3692,2883,"2016-07","Raigad","Maharashtra",TRUE
+"8873","Khalapur(Shil-Phata)","wheathusked",2016,"June",122,2067,3367,2708,"2016-06","Raigad","Maharashtra",TRUE
+"8874","Khalapur(Shil-Phata)","wheathusked",2016,"May",172,2085,3490,2760,"2016-05","Raigad","Maharashtra",TRUE
+"8875","Sangali","wheathusked",2016,"April",12317,1826,2752,2462,"2016-04","Sangli","Maharashtra",TRUE
+"8876","Sangali","wheathusked",2016,"August",7975,1885,2787,2411,"2016-08","Sangli","Maharashtra",TRUE
+"8877","Sangali","wheathusked",2016,"February",9635,1829,2804,2513,"2016-02","Sangli","Maharashtra",TRUE
+"8878","Sangali","wheathusked",2016,"January",8031,1762,2940,2628,"2016-01","Sangli","Maharashtra",TRUE
+"8879","Sangali","wheathusked",2016,"July",7436,1874,2755,2388,"2016-07","Sangli","Maharashtra",TRUE
+"8880","Sangali","wheathusked",2016,"June",12551,1936,2856,2458,"2016-06","Sangli","Maharashtra",TRUE
+"8882","Sangali","wheathusked",2016,"March",17306,1858,2781,2504,"2016-03","Sangli","Maharashtra",TRUE
+"8883","Sangali","wheathusked",2016,"May",8828,1851,2792,2400,"2016-05","Sangli","Maharashtra",TRUE
+"8884","Sangali","wheathusked",2016,"October",9034,1903,2792,2437,"2016-10","Sangli","Maharashtra",TRUE
+"8885","Sangali","wheathusked",2016,"September",9999,1900,2809,2459,"2016-09","Sangli","Maharashtra",TRUE
+"8957","Solapur","wheathusked",2016,"January",2180,2144,2873,2361,"2016-01","Solapur","Maharashtra",TRUE
+"8978","Barshi-Vairag","wheathusked",2016,"March",29,2062,2349,2349,"2016-03","Solapur","Maharashtra",TRUE
+"9002","Mohol","wheathusked",2016,"October",7,3168,3168,3168,"2016-10","Solapur","Maharashtra",TRUE
+"9017","Ulhasnagar","wheathusked",2016,"April",2995,1875,3025,2408,"2016-04","Thane","Maharashtra",TRUE
+"9022","Ulhasnagar","wheathusked",2016,"August",4423,2000,3071,2517,"2016-08","Thane","Maharashtra",TRUE
+"9027","Ulhasnagar","wheathusked",2016,"February",2755,1950,2986,2468,"2016-02","Thane","Maharashtra",TRUE
+"9032","Ulhasnagar","wheathusked",2016,"January",3580,2044,3100,2572,"2016-01","Thane","Maharashtra",TRUE
+"9034","Bhivandi","wheathusked",2016,"July",79450,1990,2815,2350,"2016-07","Thane","Maharashtra",TRUE
+"9037","Ulhasnagar","wheathusked",2016,"July",4790,2000,3152,2597,"2016-07","Thane","Maharashtra",TRUE
+"9040","Kalyan","wheathusked",2016,"June",3,2300,2600,2500,"2016-06","Thane","Maharashtra",TRUE
+"9042","Ulhasnagar","wheathusked",2016,"June",5705,2008,3288,2683,"2016-06","Thane","Maharashtra",TRUE
+"9045","Kalyan","wheathusked",2016,"March",18,2400,2800,2567,"2016-03","Thane","Maharashtra",TRUE
+"9047","Ulhasnagar","wheathusked",2016,"March",3788,1771,2947,2347,"2016-03","Thane","Maharashtra",TRUE
+"9052","Ulhasnagar","wheathusked",2016,"May",5832,1984,3084,2513,"2016-05","Thane","Maharashtra",TRUE
+"9056","Ulhasnagar","wheathusked",2016,"October",3714,1970,2900,2451,"2016-10","Thane","Maharashtra",TRUE
+"9060","Palghar(Bevur)","wheathusked",2016,"September",1024,2295,2451,2327,"2016-09","Thane","Maharashtra",TRUE
+"9061","Ulhasnagar","wheathusked",2016,"September",3200,2000,3067,2506,"2016-09","Thane","Maharashtra",TRUE
+"9215","Kalamb (Os)","wheathusked",2016,"November",63,2106,2716,2467,"2016-11","Osmanabad","Maharashtra",TRUE
+"9220","Akola","wheathusked",2016,"November",1696,2057,2861,2439,"2016-11","Akola","Maharashtra",TRUE
+"9266","Sangali","wheathusked",2016,"November",10523,1940,2869,2492,"2016-11","Sangli","Maharashtra",TRUE
+"9270","Solapur","wheathusked",2016,"November",9298,2226,2809,2402,"2016-11","Solapur","Maharashtra",TRUE
+"9287","Kada","wheathusked",2016,"November",70,1711,2635,2405,"2016-11","Beed","Maharashtra",TRUE
+"9298","Ausa","wheathusked",2016,"November",9,2326,2867,2776,"2016-11","Latur","Maharashtra",TRUE
+"9330","Kolhapur-Laxmipuri","wheathusked",2016,"November",1795,2140,3418,2744,"2016-11","Kolhapur","Maharashtra",TRUE
+"9335","Pune","wheathusked",2016,"November",4225,2497,2832,2698,"2016-11","Pune","Maharashtra",TRUE
+"9341","Ulhasnagar","wheathusked",2016,"November",3172,2000,2953,2453,"2016-11","Thane","Maharashtra",TRUE
