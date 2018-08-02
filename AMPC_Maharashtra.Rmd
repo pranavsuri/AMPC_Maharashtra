@@ -43,7 +43,7 @@ library(ggpubr)
 library(gridExtra)
 ```
 
-### Reading & Cleaning the Data
+## Reading & Cleaning the Data
 ```{R, echo=FALSE, warning=FALSE, message=FALSE}
 library("kableExtra")
 print_table <- function(df){
@@ -99,7 +99,7 @@ monthly_data_MSP$APMC = factor(monthly_data_MSP$APMC)
 
 There are **19 commodities** whose MSP and monthly data, both are available.
 
-### Outlier Removal
+## Outlier Removal
 
 To investigate the outliers, first the summary of the `monthly_data_MSP` is 
 viewed; the outlier removal is done by **removing values that do not lie** 
@@ -168,9 +168,9 @@ Since the *number of outliers are significantly less than the total number of*
 is not feasible. However, `str(outlier_file)` reveals that **156 outliers** 
 were removed.
 
-### Time Series Analysis
+## Time Series Analysis
 
-#### Detecting Seasonality Type
+### Detecting Seasonality Type
 Seasonality in a timeseries refers to predictable and recurring trends and 
 patterns over a period of time. The seasonality here is detected by comparing
 residual value for additive and multiplicative nature.
@@ -206,7 +206,7 @@ write.csv(seasonality_type_data, "Seasonality_Type.csv")
 The detected seasonality is **multiplicative**. The data is stored in 
 `Seasonality_Type.csv`. 
 
-#### Multiplicative Decomposition
+### Multiplicative Decomposition
 ```{R multiplicative_decomposition}
 # Function for multiplicative decomposition
 decomposition_m <- function(dt){
@@ -228,7 +228,7 @@ write.csv(decomposed_data, "Deseasonalized_Data.csv")
 Based on the detected trend (multiplicative), the data was deseasonalized. The
 output data was stored in `Deseasonalized_Data.csv`.
 
-#### Comparing Raw & Deseasonalized Prices with MSP
+### Comparing Raw & Deseasonalized Prices with MSP
 ```{R comparison_prices}
 price_compare <- function (main_data, msp_data){
   main_data$raw_msp_comp = NA
@@ -286,7 +286,7 @@ sum(comparison_output$raw_msp_comp == 'Above MSP')
 The obtained comparison of items has been stored in a file called 
 `MSP_Comparison_(Raw_&_Deseasonalized).csv`.
 
-#### Example: Time Series Analysis
+### Example: Time Series Analysis
 For interpretability, an analysis based on the above principles is performed on
 randomly chosen AMPC-Commodity combinations that consist of enough data points
 to conduct the time series analysis. 
@@ -391,7 +391,10 @@ The test yeilds a p-value under the null hypotheses of non-stationarity, which
 if less than 0.05, signifies stationarity.From the obtained p-values, it is 
 confirmed that the series seems to follow some time-dependent repitition.
 
-```{R, time_series_decomposition, results='hide', fig.keep='all'}
+Below are plots containing deseasonalized prices (multiplicative 
+decomposition), with the raw and minimum support prices as reference. 
+
+```{R, time_series_decomposition, echo=FALSE, results='hide', fig.keep='all'}
 # Data preparation
 monthly_data_MSP1 = merge(decomposed_data, msp, 
                               by.x=c("Commodity", "Year"),
@@ -431,7 +434,16 @@ ggarrange(c1, c2, c3, c4,
           common.legend = TRUE, legend="right")
 ```
 
-### Flagging APMC/Commodity Clusters with Max Fluctuations
+`RicyPaddyHus` prices in Nagpur have been relatively stable compared to the 
+other commodities studied. Deseasonalized prices are in general lower than the 
+raw prices of the commodity. `Bajri` prices in Jalgaon and `Wheat Husk` prices 
+in Dhule went through large fluctuations in 2015 & 2016 respectively. 
+
+The behavior of the prices of the commodities as grouped by the location can be 
+explored independently using similar graphs. The obtained inferences can be
+then be examined through factors unforseen through the data.
+
+## Flagging APMC/Commodity Pairs with Max Fluctuations
 ```{R, flagging_AMPCC}
 monthly_data_MSP$fluctuation = monthly_data_MSP$max_price - monthly_data_MSP$min_price
 
@@ -471,7 +483,15 @@ fluctuation_data = rbind(flag_fluctuation(year_2014, set_14),
                          flag_fluctuation(year_2016, set_16)) %>% arrange(date)
 
 write.csv(fluctuation_data, "Fluctuation_Data.csv")
-print_table(head(fluctuation_data[order(-fluctuation_data$fluctuation),], 15))
+print_table(head(fluctuation_data[order(-fluctuation_data$fluctuation),], 10))
 ```
 
 The significant fluctuations have been flagged.
+
+---------
+
+## Conclusion
+1. The outliers have been removed. 
+2. The data is non-stationary; detected seasonality is multiplicative. 
+3. The price fluctuations have been examined using selcted AMPC-Commodity pairs.
+4. The most significant fluctuations have been flagged.
