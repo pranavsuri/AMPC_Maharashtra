@@ -14,11 +14,11 @@ To understand trends in APMC (Agricultural produce market committee)/Mandi price
 - `AMPC_Maharashtra.R` – Extracted R Code from RMD file
 
 - [Figs](/Figs) – Contains all plots from the analysis
-  - `time_series_plots-1.png` –
+  - `time_series_plots-1.png` – Time Series plots of commodity prices
 
   - `acf_plots-1.png` – Auto-Correlation Function plots to determine whether data is stationary or not
 
-  - `time_series_decomposition-1.png` –
+  - `time_series_decomposition-1.png` – Plots comparing MSP of commodities with raw/deseasonalized prices
 
 - [Data](/Data) – Contains data-exports from the analysis
 
